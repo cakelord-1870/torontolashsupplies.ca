@@ -1,0 +1,970 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://torontolashsupplies.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://torontolashsupplies.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://torontolashsupplies.ca/collections/tools.atom"/>
+  <title>Toronto Lash Supplies </title>
+  <updated>2021-07-28T22:30:12-04:00</updated>
+  <author>
+    <name>Toronto Lash Supplies </name>
+  </author>
+  <entry>
+    <id>https://torontolashsupplies.ca/products/6769618419898</id>
+    <published>2021-07-28T22:30:12-04:00</published>
+    <updated>2021-07-28T22:30:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://torontolashsupplies.ca/products/lash-adhesive-wipes"/>
+    <title>Lash adhesive nozzle wipes</title>
+    <s:type></s:type>
+    <s:vendor>Toronto Lash Supplies </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2075/9831/products/image_488fd017-c727-4de9-8f72-2132a158e93d.jpg?v=1627525815"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Toronto Lash Supplies <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>New product alert: adhesive middle wipes!!! keep those adhesive bottles squeaky clean with our specially designed wipes - easy to grab wipes and  no more sticky caps that can cause your bottle completely glue shut! Simply grab a adhesive nozzle wipe after every use to avoid messy glue nozzles! </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/6769618419898</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://torontolashsupplies.ca/products/6717594140858</id>
+    <published>2021-06-25T11:44:51-04:00</published>
+    <updated>2021-06-25T11:44:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://torontolashsupplies.ca/products/disposable-glue-palette"/>
+    <title>Disposable glue palette</title>
+    <s:type></s:type>
+    <s:vendor>Toronto Lash Supplies </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2075/9831/products/image_0b9b705a-9911-468b-9a6c-377934676dd9.jpg?v=1624635876"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Toronto Lash Supplies <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This glue palette will last you for the entire day! It has 26 wells that allows for adhesive to be put in and used through out the day. <br>pack of 10</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/6717594140858</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://torontolashsupplies.ca/products/6717580116154</id>
+    <published>2021-06-25T11:27:21-04:00</published>
+    <updated>2021-06-25T11:27:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://torontolashsupplies.ca/products/ultra-thin-foam-gel-pads"/>
+    <title>Ultra thin Foam gel pads</title>
+    <s:type></s:type>
+    <s:vendor>Toronto Lash Supplies </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2075/9831/products/image_17188ee6-e229-40a2-9008-b715a331f65c.jpg?v=1624635666"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Toronto Lash Supplies <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A comfortable soft and foamy gel pad that feels great on clients eyes and is amazing to work with for lash artists! Pack of 20</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/6717580116154</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://torontolashsupplies.ca/products/6676391493818</id>
+    <published>2021-05-28T10:34:21-04:00</published>
+    <updated>2021-05-28T10:34:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://torontolashsupplies.ca/products/gold-hydration-lip-mask"/>
+    <title>Gold hydration lip mask</title>
+    <s:type></s:type>
+    <s:vendor>Toronto Lash Supplies </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2075/9831/products/image_10245025-227f-4bed-a11a-20f0a78e9b15.jpg?v=1622212465"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Toronto Lash Supplies <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/6676391493818</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://torontolashsupplies.ca/products/6625227636922</id>
+    <published>2021-04-21T20:20:42-04:00</published>
+    <updated>2021-04-21T20:20:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://torontolashsupplies.ca/products/flower-adhesive-cups-for-volume-lashing"/>
+    <title>Flower Adhesive Cups for Volume Lashing</title>
+    <s:type></s:type>
+    <s:vendor>Toronto Lash Supplies </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2075/9831/products/image_c60b6e2f-1bae-488a-ae9a-a856eebf8eb8.jpg?v=1619050846"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Toronto Lash Supplies <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These flower glue cups are perfect for helping you create lash fans quickly ! </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/6625227636922</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://torontolashsupplies.ca/products/6617048613050</id>
+    <published>2021-04-14T09:58:19-04:00</published>
+    <updated>2021-04-14T09:58:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://torontolashsupplies.ca/products/training-eye-pads"/>
+    <title>Training eye pads</title>
+    <s:type></s:type>
+    <s:vendor>Toronto Lash Supplies </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2075/9831/products/image_c78878f7-587a-44b5-a383-f3abfb22b747.jpg?v=1618408706"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Toronto Lash Supplies <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Training eye pads that can be written on </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/6617048613050</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://torontolashsupplies.ca/products/6583948017850</id>
+    <published>2021-03-26T16:44:39-04:00</published>
+    <updated>2021-03-26T16:44:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://torontolashsupplies.ca/products/tweezer-stand"/>
+    <title>Tweezer stand</title>
+    <s:type></s:type>
+    <s:vendor>Toronto Lash Supplies </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2075/9831/products/image_d43df01a-18f0-4fee-b002-3c68e6ecd989.jpg?v=1616791483"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Toronto Lash Supplies <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Keep organized with this amazing tweezer stand/ display that fits up to 8 tweezers! Made with high quality acrylic !</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/6583948017850</id>
+      <title>Black</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/6583948017850</id>
+      <title>White</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://torontolashsupplies.ca/products/6540508889274</id>
+    <published>2021-02-27T10:13:24-05:00</published>
+    <updated>2021-02-27T10:13:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://torontolashsupplies.ca/products/large-lash-palette-white"/>
+    <title>Large lash palette - white</title>
+    <s:type></s:type>
+    <s:vendor>Toronto Lash Supplies </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2075/9831/products/image_1ce0417f-e6b7-4500-aa5f-00f92cd1dac0.jpg?v=1614438797"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Toronto Lash Supplies <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>XL version lash palette to put lash strips on while lashing! </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/6540508889274</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://torontolashsupplies.ca/products/6224508846266</id>
+    <published>2021-02-19T10:05:31-05:00</published>
+    <updated>2021-02-19T10:05:31-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://torontolashsupplies.ca/products/silicone-lash-pad-pink"/>
+    <title>Silicone Lash Pad Pink</title>
+    <s:type></s:type>
+    <s:vendor>Toronto Lash Supplies </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2075/9831/products/image_038cb190-d5ec-4469-8326-1d0aa1be2727.jpg?v=1613747127"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Toronto Lash Supplies <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/6224508846266</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://torontolashsupplies.ca/products/6173100966074</id>
+    <published>2021-01-14T13:59:40-05:00</published>
+    <updated>2021-01-14T13:59:40-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://torontolashsupplies.ca/products/tweezer-disinfect"/>
+    <title>Tweezer disinfect</title>
+    <s:type></s:type>
+    <s:vendor>Toronto Lash Supplies </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2075/9831/products/image_62f541b8-0337-4a74-93d7-f7dbd3d0af11.jpg?v=1610650776"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Toronto Lash Supplies <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Tweezer Disinfectant </p>
+<p>Purpose of the product: The tweezers can be disinfected so quick and comfortable.<br>How to Use: Dip the tweezer in a tweezer cleaner and rub it on a sponge to clean it. Take out the tweezer and wipe the remaining debris with a tissue.<br>Precautions: Use tweezer coated with paint carefully as the tweezer's paint may come off.<br>Please keep the lid closed after using it.<br>Use is prohibited outside of the intended use.<br>Please keep it out of the reach of children.<br>Capacity: 20ml</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/6173100966074</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://torontolashsupplies.ca/products/6128744300730</id>
+    <published>2020-12-28T14:59:04-05:00</published>
+    <updated>2020-12-28T14:59:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://torontolashsupplies.ca/products/mini-cool-air-conditioner-pink"/>
+    <title>Mini cool air conditioner ( pink)</title>
+    <s:type></s:type>
+    <s:vendor>Toronto Lash Supplies </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2075/9831/products/image_2e25b290-3113-4894-9339-45ae6778a3ce.jpg?v=1608065081"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Toronto Lash Supplies <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            23.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Mini air conditoner to help speed up process of drying adhesive </p>
+<p>provided relief to clients eyes right after lash application</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/6128744300730</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">23.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://torontolashsupplies.ca/products/5868606324886</id>
+    <published>2020-11-05T12:34:11-05:00</published>
+    <updated>2020-11-05T12:34:11-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://torontolashsupplies.ca/products/nano-mister"/>
+    <title>Nano mister</title>
+    <s:type></s:type>
+    <s:vendor>Toronto Lash Supplies </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2075/9831/products/image_3ff3dea4-848e-44a3-a074-394e8e74aa8d.jpg?v=1603981690"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Toronto Lash Supplies <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>USB charged nano mister to help cure glue on fresh set of lashes! Simply plug in to charge, fill with distilled water and mist away! </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/5868606324886</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://torontolashsupplies.ca/products/5882767605910</id>
+    <published>2020-11-04T16:26:12-05:00</published>
+    <updated>2020-11-04T16:26:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://torontolashsupplies.ca/products/glue-storage-tank"/>
+    <title>Glue Storage Tank</title>
+    <s:type></s:type>
+    <s:vendor>Toronto Lash Supplies </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2075/9831/products/image_0c761b17-e68b-4d10-99ec-7d8aa890068c.jpg?v=1604524990"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Toronto Lash Supplies <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This glue storage tank can store up to 3 adhesives and is great for keeping humidity away from glue. Made of high quality plastic that is durable and portable , is leak proof and seals with metal buckles . Will protect adhesive from sunlight and humidity to avoid glued from spoiling</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/5882767605910</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://torontolashsupplies.ca/products/5739663884438</id>
+    <published>2020-09-18T14:43:00-04:00</published>
+    <updated>2020-09-18T14:43:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://torontolashsupplies.ca/products/lash-adhesive-shaker"/>
+    <title>Lash adhesive shaker</title>
+    <s:type></s:type>
+    <s:vendor>Toronto Lash Supplies </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2075/9831/products/image_8a27d671-1571-4346-8110-ab180abde26f.jpg?v=1600454585"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Toronto Lash Supplies <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Electric lash adhesive shaker with different size options</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/5739663884438</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://torontolashsupplies.ca/products/5345576288406</id>
+    <published>2020-06-17T18:18:44-04:00</published>
+    <updated>2020-06-17T18:18:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://torontolashsupplies.ca/products/foam-tape"/>
+    <title>Foam Tape</title>
+    <s:type></s:type>
+    <s:vendor>Toronto Lash Supplies </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2075/9831/products/image_a1e6de89-1a04-4cba-b161-aeb7c8828513.jpg?v=1592432327"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Toronto Lash Supplies <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Thick spongy tape - great alternative to under eye pads!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/5345576288406</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://torontolashsupplies.ca/products/5244365242518</id>
+    <published>2020-05-26T19:10:19-04:00</published>
+    <updated>2020-05-26T19:10:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://torontolashsupplies.ca/products/lash-hand-palette"/>
+    <title>Lash Hand Palette</title>
+    <s:type></s:type>
+    <s:vendor>Toronto Lash Supplies </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2075/9831/products/image_527d3374-e241-4396-bc19-0e752d05b811.jpg?v=1590534623"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Toronto Lash Supplies <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Great tool to use during volume and classic lashing! Fits comfortably on hand; save time and effort simply put putting sizes lash strips on pallets before lashing! </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/5244365242518</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://torontolashsupplies.ca/products/5244364521622</id>
+    <published>2020-05-26T19:08:57-04:00</published>
+    <updated>2020-05-26T19:08:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://torontolashsupplies.ca/products/lash-wash-brush-pink"/>
+    <title>Lash wash brush (Pink)</title>
+    <s:type></s:type>
+    <s:vendor>Toronto Lash Supplies </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2075/9831/products/image_a3f743f6-7875-4326-8c28-fde88bee77d1.jpg?v=1590534647"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Toronto Lash Supplies <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2.99 - 50.00
+            <a href="https://torontolashsupplies.ca/products/lash-wash-brush-pink">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Brush used for lash baths!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/5244364521622</id>
+      <title>Pack of 5</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/5244364521622</id>
+      <title>Pack of 10</title>
+      <s:price currency="CAD">28.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/5244364521622</id>
+      <title>Pack of 20</title>
+      <s:price currency="CAD">50.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/5244364521622</id>
+      <title>1 piece</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://torontolashsupplies.ca/products/4450654912605</id>
+    <published>2019-12-11T05:54:42-05:00</published>
+    <updated>2019-12-11T05:54:42-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://torontolashsupplies.ca/products/tls-exclusive-lash-booster"/>
+    <title>Toronto Lash Supplies Exclusive Lash Booster</title>
+    <s:type></s:type>
+    <s:vendor>TLS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2075/9831/products/image_e18d1d74-5033-463a-8cbb-ba7137bced64.jpg?v=1576081404"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>TLS<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            22.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Struggling with retention? The amazing lash booster will save the day! This bonder boosts lash retention by dehydrating the lash extensions and priming it so it can be ready the adhesive and real lash. It will speed up the adhering rate, volume fans will stay open and lastly curing process time will be cut in half! </p>
+<p>How to Use:</p>
+<p>Gently brush the booster onto the base of  the fake lashes ( strip) 5-10 mins before adhering to clients lashes , this will work for both classic and volume lashes. </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/4450654912605</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">22.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://torontolashsupplies.ca/products/4445639114845</id>
+    <published>2019-12-09T14:53:54-05:00</published>
+    <updated>2019-12-09T14:53:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://torontolashsupplies.ca/products/felt-lash-pillow"/>
+    <title>Felt memory foam  Lash Pillow</title>
+    <s:type>Tools &amp; Supplies</s:type>
+    <s:vendor>TLS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2075/9831/products/image_58eac462-db91-433e-a2a3-24c748acea57.jpg?v=1575923269"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>TLS<br>
+        <strong>Type: </strong>Tools &amp; Supplies<br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Ultra comfort memory foam lash perfect for cradling and supporting your client's neck for the best lash experience! This pillow is made with felt for nice comfortable finish.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/4445639114845</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://torontolashsupplies.ca/products/4445638426717</id>
+    <published>2019-12-09T14:53:54-05:00</published>
+    <updated>2019-12-09T14:53:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://torontolashsupplies.ca/products/acrylic-lash-trays"/>
+    <title>Acrylic Lash Storage Box</title>
+    <s:type>Tools &amp; Supplies</s:type>
+    <s:vendor>TLS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2075/9831/products/image_05bdd3a9-9221-4b84-9f6d-dec129f6c445.jpg?v=1575923251"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>TLS<br>
+        <strong>Type: </strong>Tools &amp; Supplies<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Our beautiful white acrylic lash storage box will help keep all your lashes in order in between clients and fills! It features a 5 trays that slide out at your convenience. The trays can also be sanitized with alcohol to ensure that cross contamination between clients do no occur. The acrylic lash storage box is every lash artist's must have!</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/4445638426717</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://torontolashsupplies.ca/products/4445637869661</id>
+    <published>2019-12-09T14:53:54-05:00</published>
+    <updated>2019-12-09T14:53:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://torontolashsupplies.ca/products/training-mannequin-head"/>
+    <title>Training Mannequin Head</title>
+    <s:type></s:type>
+    <s:vendor>TLS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2075/9831/products/image_4ef2ba2f-35fc-4592-a8c4-7b381284c00d.jpg?v=1575923151"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>TLS<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Perfect for training and practicing with false training eyelashes, this training mannequin is made to be reused and can be sanitized by alcohol! Its soft material allows for a real life experience for those practicing to be a lash technician!</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/4445637869661</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://torontolashsupplies.ca/products/1382002950237</id>
+    <published>2018-08-06T22:02:50-04:00</published>
+    <updated>2018-08-06T22:02:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://torontolashsupplies.ca/products/long-handle-lash-mirror"/>
+    <title>Long handle lash mirror</title>
+    <s:type>Tools &amp; Supplies</s:type>
+    <s:vendor>TLS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2075/9831/products/image_8d2392dd-5427-4fbd-aa23-2abf818e3d8a.jpg?v=1571712752"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>TLS<br>
+        <strong>Type: </strong>Tools &amp; Supplies<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Great tool to make sure you get a neat and tidy set ! Long handle for a convient grab!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/1382002950237</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://torontolashsupplies.ca/products/1302916857949</id>
+    <published>2018-05-30T11:03:44-04:00</published>
+    <updated>2018-05-30T11:03:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://torontolashsupplies.ca/products/eyepads-50-pack-non-slip"/>
+    <title>Under Eye Non-Slip Gel Pads</title>
+    <s:type>Tools &amp; Supplies</s:type>
+    <s:vendor>TLS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2075/9831/products/Jenn_TBLS-43_24ecfce3-6802-425d-b949-1c7167990bb9.jpg?v=1571712752"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>TLS<br>
+        <strong>Type: </strong>Tools &amp; Supplies<br>
+        <strong>Price: </strong>
+            34.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Under eye gel pads for lash application.</p>
+<p>50 individually packed for convenience!</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dolly Lash</s:tag>
+    <s:tag>Eyelash Supplies</s:tag>
+    <s:tag>Eyelash Tools</s:tag>
+    <s:tag>Gel Pads</s:tag>
+    <s:tag>Lash Extension Supplies</s:tag>
+    <s:tag>Lash Extension Tools</s:tag>
+    <s:tag>Lash Extensions</s:tag>
+    <s:tag>Lash Lift Supplies</s:tag>
+    <s:tag>Lash Lift Tools</s:tag>
+    <s:tag>Under Eye Pads</s:tag>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/1302916857949</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://torontolashsupplies.ca/products/1302574956637</id>
+    <published>2018-05-29T13:44:54-04:00</published>
+    <updated>2018-05-29T13:44:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://torontolashsupplies.ca/products/flock-applicators-50-pieces"/>
+    <title>Flock Applicators</title>
+    <s:type>Tools &amp; Supplies</s:type>
+    <s:vendor>TLS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2075/9831/products/Jenn_TBLS-38.jpg?v=1571712752"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>TLS<br>
+        <strong>Type: </strong>Tools &amp; Supplies<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Great tool for lash lifts and lash priming.</p>
+<p>50 flock applicators per pack!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Eyelash Supplies</s:tag>
+    <s:tag>Eyelash Tools</s:tag>
+    <s:tag>Lash Lift</s:tag>
+    <s:tag>Lash Lift Supplies</s:tag>
+    <s:tag>Lash Lift Tools</s:tag>
+    <s:tag>Lash Products</s:tag>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/1302574956637</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://torontolashsupplies.ca/products/1302564175965</id>
+    <published>2018-05-29T10:59:04-04:00</published>
+    <updated>2018-05-29T10:59:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://torontolashsupplies.ca/products/lash-palette-glue-ring"/>
+    <title>Lash Fanning Glue Ring</title>
+    <s:type>Tools &amp; Supplies</s:type>
+    <s:vendor>TLS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2075/9831/products/image_fdea9ef9-54de-40ae-a5a5-d3cdbbd6f23d.jpg?v=1571712752"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>TLS<br>
+        <strong>Type: </strong>Tools &amp; Supplies<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Amazing tool to fan out lash strips during lash application for a quick and easy pick up of the fans! Great for both advanced and beginner lash technicians who are looking to speed up their lash set timing.  </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Eyelash Supplies</s:tag>
+    <s:tag>Eyelash Tools</s:tag>
+    <s:tag>Lash Extension Supplies</s:tag>
+    <s:tag>Lash Extension Tools</s:tag>
+    <s:tag>Lash Extensions</s:tag>
+    <s:tag>Lash Products</s:tag>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/1302564175965</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>TLS-TOOL-LASHGLUERING-2IN1</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+</feed>

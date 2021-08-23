@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://torontolashsupplies.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://torontolashsupplies.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://torontolashsupplies.ca/collections/eyelash-extension-remover.atom"/>
+  <title>Toronto Lash Supplies </title>
+  <updated>2018-09-23T22:42:31-04:00</updated>
+  <author>
+    <name>Toronto Lash Supplies </name>
+  </author>
+  <entry>
+    <id>https://torontolashsupplies.ca/products/1420430671965</id>
+    <published>2018-09-23T22:42:31-04:00</published>
+    <updated>2018-09-23T22:42:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://torontolashsupplies.ca/products/pink-gel-remover-whole-sale"/>
+    <title>Clear Gel Remover Whole Sale</title>
+    <s:type>Eyelash Remover</s:type>
+    <s:vendor>TLS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2075/9831/products/Snapseed_111_ba7cb298-9a78-42e0-b710-7ce4a15e162c.jpg?v=1577670639"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>TLS<br>
+        <strong>Type: </strong>Eyelash Remover<br>
+        <strong>Price: </strong>
+            120.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pack of 10 clear gel remover - save 30$ for buying the whole sale option!</p>
+<meta charset="utf-8">
+<p>This gel removes lashes effortlessly by dissolving adhesive so the fake lash slides right off the real one! </p>
+<p>Leave the gel on eyelash extensions for 3-5 minutes and slowly begin to remove lashes with a Q-Tip or tweezers. Please ensure that you are not using too too much gel for the comfort of the client (a small penny sized drop is enough for eye). </p>
+<p>Make sure to throughly rinse lashes before allowing client to open eyes in order to minimize any burning sensation. </p>
+<p><strong>Features</strong></p>
+<p>-15 ml</p>
+<p>-Gel type consistency</p>
+<p>-Transparent in color </p>
+<p>-6 months shelf life</p>
+<p>-Made in Korea</p>
+<p><strong>Ingredient List</strong></p>
+<p>water, propylene carbonate, polyethylene glycol, ethoxyethanol, fragrance </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eyelash extensions</s:tag>
+    <s:tag>gel remover</s:tag>
+    <s:tag>Lash Extension Supplies</s:tag>
+    <s:tag>pink gel remover</s:tag>
+    <s:tag>Wholesale Lash Supplies</s:tag>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/1420430671965</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">120.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://torontolashsupplies.ca/products/10392499464</id>
+    <published>2017-08-03T12:30:21-04:00</published>
+    <updated>2017-08-03T12:30:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://torontolashsupplies.ca/products/cream-based-sensitive-eyelash-extension-remover"/>
+    <title>Lemon Lavender Cream Based Eyelash Extension Remover - Sensitive Eyes</title>
+    <s:type>Eyelash Remover</s:type>
+    <s:vendor>TLS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2075/9831/products/Jenn_TBLS-11.jpg?v=1616953857"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>TLS<br>
+        <strong>Type: </strong>Eyelash Remover<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This cream-based eyelash extension remover is perfect for clients with sensitive eyes.</p>
+<p>It is formulated to be gentle yet effective, which prevents burning sensation and tears!</p>
+<p><em><strong>Leave this on client's eyes for 10 minutes before sliding fake lashes off real lashes with tweezers!</strong></em></p>
+<p> <strong>﻿Ingredient: proplene carbonate, poly ethylene glycol, poly propylene glycol, perfume </strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Eyelash Remover</s:tag>
+    <s:tag>Eyelash Supplies</s:tag>
+    <s:tag>Lash Extension Remover</s:tag>
+    <s:tag>Lash Extension Supplies</s:tag>
+    <s:tag>Lash Extensions</s:tag>
+    <s:tag>Lash Products</s:tag>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/10392499464</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>800</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://torontolashsupplies.ca/products/9823393864</id>
+    <published>2017-06-06T19:06:50-04:00</published>
+    <updated>2017-06-06T19:06:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://torontolashsupplies.ca/products/pink-gel-adhesive-remover-10ml"/>
+    <title>15mL  Gel Eyelash Extension Remover</title>
+    <s:type>Eyelash Remover</s:type>
+    <s:vendor>TLS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2075/9831/products/Jenn_TBLS-3.jpg?v=1571712751"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>TLS<br>
+        <strong>Type: </strong>Eyelash Remover<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This gel removes lashes effortlessly by dissolving adhesive so the fake lash slides right off the real one! </p>
+<p>Leave the gel on eyelash extensions for 3-5 minutes and slowly begin to remove lashes with a Q-Tip or tweezers. Please ensure that you are not using too too much gel for the comfort of the client (a small penny sized drop is enough for eye). </p>
+<p>Make sure to throughly rinse lashes before allowing client to open eyes in order to minimize any burning sensation. </p>
+<p><strong>Features</strong></p>
+<ul>
+<li>15 ml</li>
+<li>Gel type consistency</li>
+<li>Transparent in color </li>
+<li>6 months shelf life</li>
+<li>Made in Korea</li>
+</ul>
+<p><strong>Ingredient List</strong></p>
+<p>Water, Propylene Carbonate, Polyethylene Glycol, Ethoxyethanol, Fragrance </p>
+<meta charset="utf-8">
+<div></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Eyelash Remover</s:tag>
+    <s:tag>Eyelash Supplies</s:tag>
+    <s:tag>Lash Extension Remover</s:tag>
+    <s:tag>Lash Extension Supplies</s:tag>
+    <s:tag>Lash Extensions</s:tag>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/9823393864</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>TLS-LASHREMOVER-GEL-15</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+</feed>

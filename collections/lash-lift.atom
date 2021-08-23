@@ -1,0 +1,1113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://torontolashsupplies.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://torontolashsupplies.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://torontolashsupplies.ca/collections/lash-lift.atom"/>
+  <title>Toronto Lash Supplies </title>
+  <updated>2021-06-25T13:47:02-04:00</updated>
+  <author>
+    <name>Toronto Lash Supplies </name>
+  </author>
+  <entry>
+    <id>https://torontolashsupplies.ca/products/6717678911674</id>
+    <published>2021-06-25T13:47:02-04:00</published>
+    <updated>2021-06-25T13:47:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://torontolashsupplies.ca/products/glass-lash-dye-mixing-cup"/>
+    <title>Glass lash dye mixing cup</title>
+    <s:type></s:type>
+    <s:vendor>Toronto Lash Supplies </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2075/9831/products/image_38e3c127-7dec-42b1-9c03-f3628bbe0bbe.jpg?v=1624643227"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Toronto Lash Supplies <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/6717678911674</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://torontolashsupplies.ca/products/6710356574394</id>
+    <published>2021-06-21T23:04:00-04:00</published>
+    <updated>2021-06-21T23:04:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://torontolashsupplies.ca/products/plastic-lash-lift-stick"/>
+    <title>Plastic Lash lift Stick</title>
+    <s:type></s:type>
+    <s:vendor>Toronto Lash Supplies </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2075/9831/products/image_061f5f3c-50b7-4867-a904-61ca72d88eb8.jpg?v=1624331043"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Toronto Lash Supplies <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Package of 10</p>
+<p>perfect for lash lifting and separating individual lashes onto rod</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/6710356574394</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://torontolashsupplies.ca/products/5802921951382</id>
+    <published>2020-10-06T19:50:24-04:00</published>
+    <updated>2020-10-06T19:50:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://torontolashsupplies.ca/products/lash-lift-tool"/>
+    <title>Lash lift tool</title>
+    <s:type></s:type>
+    <s:vendor>Toronto Lash Supplies </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2075/9831/products/image_a903dd68-dfa1-49b6-ad43-015c99591306.jpg?v=1602028229"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Toronto Lash Supplies <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Reusable lash lift tool to help lift lashes. Easily sanitizes and made with high quality anti rust steel.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/5802921951382</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://torontolashsupplies.ca/products/5739657592982</id>
+    <published>2020-09-18T14:40:30-04:00</published>
+    <updated>2020-09-18T14:40:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://torontolashsupplies.ca/products/lash-lift-rods"/>
+    <title>Lash lift rods</title>
+    <s:type></s:type>
+    <s:vendor>Toronto Lash Supplies </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2075/9831/products/image_8e209be5-325f-41e6-883a-58a9679be4dd.jpg?v=1600454435"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Toronto Lash Supplies <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Silicon made rods and shields that come in 3 sizes </p>
+<p>package includes rounded pads as well as squared shields for different effects </p>
+<p>6 pairs altogether per package</p>
+<p>reusable and made from high quality Japanese silicone </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/5739657592982</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://torontolashsupplies.ca/products/4688281403485</id>
+    <published>2020-05-08T11:43:47-04:00</published>
+    <updated>2020-05-08T11:43:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://torontolashsupplies.ca/products/permania-sodium-bromate-free-lash-lift"/>
+    <title>Permania (sodium bromate free ) Lash lift Kit ( includes glue and lift pads)</title>
+    <s:type></s:type>
+    <s:vendor>Toronto Lash Supplies </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2075/9831/products/image_ee7d5498-1f7d-4ad8-af38-0e5b9e2f9b64.jpg?v=1588952641"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Toronto Lash Supplies <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            89.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Permania’s newest line of sodium bromate free lash lift kit! <br>Each set has one box of perm and one box of neutralizer- each box includes 10 individual sachets </p>
+<p>Instructions: both steps can be left on average lashes for 7-8 mins ; for thicker lashes they can be left on for 8-10 mins </p>
+<p>Ingredient List :</p>
+<p>First Step ( Perming) water , ethanlamine thioglycolate, mineral oil, cetearyl alcohol, glyceryl stearate, proplene glycol, ethanolamine, PEG-100 Stearate, cetrimonium chloride, petrolatum, sorbitan sesquioleate, hydrolyzed collagen, etidronic acid, fragrance </p>
+<p>Second Step ( Neutralizer): cetearyl alcohol, mineral oil, hydrogen peroxide, sodium laureth sulfate, bethentrimonium chloride, glyceryl sterate, ceteth-20, disodium phosphate, disodium EDTA, phosphoric acid, fragrance, phenacetin</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/4688281403485</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">89.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://torontolashsupplies.ca/products/4568030117981</id>
+    <published>2020-03-03T08:55:08-05:00</published>
+    <updated>2020-03-03T08:55:08-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://torontolashsupplies.ca/products/dolly-lash-lift-kit-new-syringe-version"/>
+    <title>Dolly Lash Lift Kit - sodium bromate free version( New Syringe Version)</title>
+    <s:type>Lash Lift</s:type>
+    <s:vendor>dolly</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2075/9831/products/image_6dffe411-253d-4a1c-87cf-0c28f1790222.jpg?v=1583335814"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>dolly<br>
+        <strong>Type: </strong>Lash Lift<br>
+        <strong>Price: </strong>
+            89.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>The perfect lash lift kit for beginners!</p>
+<p>*only avalable for USA clients </p>
+<p><span>Kit includes:</span></p>
+<meta charset="utf-8">
+<ul class="a-unordered-list a-vertical a-spacing-none">
+<li>1 Perm Lotion in Syringe( 15 mins processing time)</li>
+<li>1 Setting Lotion in Syringe( 15 mins processing time)</li>
+<li>1 Nourishing Agent In Syringe (3 mins processing time)</li>
+<li>1 Bottle of Glue</li>
+<li>Small and Medium Silicon Pads</li>
+<li>3 Y combs </li>
+</ul>
+<p><strong>Ingredients: </strong></p>
+<meta charset="utf-8">
+<p><strong>Perming lotion</strong>: Water, Thioglycolic Acid, Monoethanolamine, Cethyl, Triethanolamine,  Limonene, Sodium Lauryl Sulfate, Benzyl Benzoate, Benzyl Alcohol, Acid Red 92</p>
+<p><strong>Setting lotion</strong>: Water,hydrogen peroxide,Cetyl, Flavor, Benzyl Benzoate, Limonene, Benzyl Alcohol, Sodium Lauryl Sulfate, Methylparaben, Brilliant Blue FCF, Keratin</p>
+<p><strong>Nourishing agen</strong>t: Water, Panthenol, Benzyl Alcohol, Limonene, Benzyl Benzoate, Methylparaben</p>
+<p><strong>Glue</strong>: Water, PVOH, Glycerin, Hydrogenated Castor Oil, Methylparaben</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/4568030117981</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">89.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://torontolashsupplies.ca/products/4548632739933</id>
+    <published>2020-02-16T16:25:23-05:00</published>
+    <updated>2020-02-16T16:25:23-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://torontolashsupplies.ca/products/dolly-lash-lift-individual-syringe"/>
+    <title>Dolly Lash Lift Individual Syringe</title>
+    <s:type>Lash Lift</s:type>
+    <s:vendor>dolly</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2075/9831/products/dolly_lash_syring_1_9c719ea2-2f5d-4bce-b0d1-1de8e8531318.png?v=1581898122"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>dolly<br>
+        <strong>Type: </strong>Lash Lift<br>
+        <strong>Price: </strong>
+            27.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Dolly Lash Lift is now featured in syringes instead of glass bottles in order to increase freshness and accuracy of usage per lift! Each syringe will be enough for 15 lash lifts and due to the improved packaging, air can no longer dilute the solution after opening! *</span></p>
+<meta charset="utf-8">
+<p><strong>Ingredients: </strong></p>
+<p><strong>Perming lotion</strong>: Water, Thioglycolic Acid, Monoethanolamine, Cethyl, Triethanolamine,  Limonene, Sodium Lauryl Sulfate, Benzyl Benzoate, Benzyl Alcohol, Acid Red 92</p>
+<p><strong>Setting lotion</strong>: Water, hydrogen perozide, Cetyl, Flavor, Benzyl Benzoate, Limonene, Benzyl Alcohol, Sodium Lauryl Sulfate, Methylparaben, Brilliant Blue FCF, Keratin</p>
+<p><strong>Nourishing agen</strong>t: Water, Panthenol, Benzyl Alcohol, Limonene, Benzyl Benzoate, Methylparaben</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/4548632739933</id>
+      <title>Perming Solution</title>
+      <s:price currency="CAD">27.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/4548632739933</id>
+      <title>Neutralizing Solution- sodium bromate free edition</title>
+      <s:price currency="CAD">27.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/4548632739933</id>
+      <title>Conditioner</title>
+      <s:price currency="CAD">27.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://torontolashsupplies.ca/products/4548620976221</id>
+    <published>2020-02-16T16:25:23-05:00</published>
+    <updated>2020-02-16T16:25:23-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://torontolashsupplies.ca/products/dolly-lash-lift-syringe"/>
+    <title>Dolly Lash Lift Syringe Bundle ( all 3 steps)</title>
+    <s:type>Lash Lift</s:type>
+    <s:vendor>dolly</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2075/9831/products/dolly_lash_syring_1.png?v=1581897766"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>dolly<br>
+        <strong>Type: </strong>Lash Lift<br>
+        <strong>Price: </strong>
+            69.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Dolly Lash Lift is now featured in syringes instead of glass bottles in order to increase freshness and accuracy of usage per lift! Each syringe will be enough for 15 lash lifts and due to the improved packaging, air can no longer dilute the solution after opening! Receive all 3 syringes ( step 1-pink, step 2-blue and step 3 -conditioner) in this package deal! </p>
+<p> </p>
+<p> Kit includes:</p>
+<ul class="a-unordered-list a-vertical a-spacing-none">
+<li>1 Perm Lotion in Syringe ( 15-18 mins processing time)</li>
+<li>1 Setting Lotion in Syringe( 15 mins processing time)</li>
+<li>1 Nourishing Agent in Syringe (3 mins processing time)</li>
+</ul>
+<p> </p>
+<p><strong>Ingredients: </strong></p>
+<p><strong>Perming lotion</strong>: Water, Thioglycolic Acid, Monoethanolamine, Cethyl, Triethanolamine,  Limonene, Sodium Lauryl Sulfate, Benzyl Benzoate, Benzyl Alcohol, Acid Red 92</p>
+<p><strong>Setting lotion</strong>: Water, Hydrogen peroxide,Cetyl, Flavor, Benzyl Benzoate, Limonene, Benzyl Alcohol, Sodium Lauryl Sulfate, Methylparaben, Brilliant Blue FCF, Keratin</p>
+<p><strong>Nourishing agen</strong>t: Water, Panthenol, Benzyl Alcohol, Limonene, Benzyl Benzoate, Methylparaben</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/4548620976221</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">69.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://torontolashsupplies.ca/products/4490372382813</id>
+    <published>2020-01-05T23:18:15-05:00</published>
+    <updated>2020-01-05T23:18:15-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://torontolashsupplies.ca/products/toronto-lash-supplies-lash-lift-bottles-1"/>
+    <title>Toronto lash Supplies Keratin REFILL SEPARATE Lash Lift and Brow Lamination Bottles (20 clients 10 ml )</title>
+    <s:type></s:type>
+    <s:vendor>TLS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2075/9831/products/image_4721598b-34dd-40be-9345-1bb28d86d139.jpg?v=1616953463"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>TLS<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            25.00 - 64.99
+            <a href="https://torontolashsupplies.ca/products/toronto-lash-supplies-lash-lift-bottles-1">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>10 ml package of our lash lift kit bottles. Purchase steps 1,2 and 3 in our pump bottles together for 64.99$  or purchase separately step 1,2 or 3 for refill purposes ! </p>
+<p>Can be used for 20 clients </p>
+<p>sodium bromate free</p>
+<meta charset="utf-8">
+<p><strong>Ingredients: </strong></p>
+<meta charset="utf-8">
+<p><em><b><strong>Step 1:</strong> </b>water , thioglycolate, ethanolamine, cetearyl alcohol, oleth-30, ammonia, pentasodium pentetate</em></p>
+<p><strong></strong><strong>Step 2: </strong>water, sodium stannate, cetearyl alcohol, hedp, hydrogen peroxide, disodium phosphate</p>
+<p><b>Step 3:<span> </span></b>water, keratin, portulaca oleracea extract, sophora flavescens root extract, helianthus annus seed oil ,<span> </span>triethanolamine, sodium hyaluronate,<span> </span>hydroxy benzyl ester. </p>
+<p><b> </b></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/4490372382813</id>
+      <title>Step 1 ( 10 ml perming) ONLY</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/4490372382813</id>
+      <title>Step 2 ( 10 ml neutralizing ) ONLY</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/4490372382813</id>
+      <title>Step 3 ( 10 ml conditoner ) ONLY</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/4490372382813</id>
+      <title>All 3 steps ( large 10 ml size for 20 clients)</title>
+      <s:price currency="CAD">64.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://torontolashsupplies.ca/products/4301147439197</id>
+    <published>2019-10-22T21:53:14-04:00</published>
+    <updated>2019-10-22T21:53:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://torontolashsupplies.ca/products/refectocil-3-oxidant"/>
+    <title>Refectocil 3% Oxidant 100 ML</title>
+    <s:type></s:type>
+    <s:vendor>refectocil</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2075/9831/products/refecto-cil-oxidant-developer-liquid-3_-10vol-_100ml.jpg?v=1571795837"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>refectocil<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            22.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Use 2-3 drops to activate refectocil lash tint color, each bottle is enough or about 200 applications. </p>
+<p><strong>Ingredients:</strong> Aqua, Hydrogen Peroxide, Triethanolamine, Phosphoric Acid, C12-13 Pareth-9.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/4301147439197</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">22.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://torontolashsupplies.ca/products/4263768522845</id>
+    <published>2019-10-14T11:57:59-04:00</published>
+    <updated>2019-10-14T11:57:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://torontolashsupplies.ca/products/keratin-lash-gel"/>
+    <title>Keratin Lash Gel</title>
+    <s:type>Lash Extension Product</s:type>
+    <s:vendor>TLS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2075/9831/products/Snapseed_102.jpg?v=1577671534"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>TLS<br>
+        <strong>Type: </strong>Lash Extension Product<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This is an after care product to sell to clients after a lash lift! Our keratin lash mascara provides nourishing and hydrating effects post lash lift. Advise clients to apply this keratin gel to lifted lashes daily in order to keep the lashes healthy and nourished</p>
+<p><strong>Ingredients: </strong>water, keratinn, portulaca olercea extract, helianthus annuus seed oil, tirethanolamine, sodium hylauronate, hydroxybenzyl ester<br></p>
+<p><strong>﻿How to use: </strong>﻿this product comes in a mascara like tube and wand, please ask clients to use once per day after lash lift procedure. It is easy to use and applies like a clear mascara gel to help nourish the lifted lashes. <br></p>
+<p>Suggested Retail Price : $49.99</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/4263768522845</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://torontolashsupplies.ca/products/4263756300381</id>
+    <published>2019-10-14T11:57:59-04:00</published>
+    <updated>2019-10-14T11:57:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://torontolashsupplies.ca/products/lash-botox-conditioner"/>
+    <title>Vitamin Lash Conditioner</title>
+    <s:type>Lash Lift</s:type>
+    <s:vendor>TLS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2075/9831/products/image_c612d7aa-73a0-4043-a298-95affc5c2da6.jpg?v=1574359477"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>TLS<br>
+        <strong>Type: </strong>Lash Lift<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This is and add on after care treatment for lash lifts! Our deep lash conditioner contains vitamin A, B as well as B5 which is proven to replenish permed lashes right away with nutrients.It provides extra nourishing, hydration and conditioning effects for lifted lashes. Please apply to lashes after the the second step and before tinting. <strong>*please note this product may contains traces of nuts, please make sure your client does not have alon, macadamia or avocado allergy before using this product. </strong></p>
+<p><strong>How to use:</strong>Leave the lash conditioner for 3-5 mins and then wash off with q-tip and water before tinting lashes and after step one and two. </p>
+<p><strong>Ingredients: </strong>aquam, hydrolyzed keratin protein, hydrolyzed jojoba protein,m hydrolyzed wheat protein, hydrolyzed baobab protein, sweet almond oil, macadamia nut oil, avocado oil, hyaluronic acid, stearic acid, oleic acid, vitamin a, vitamin b, provitamin b5 </p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/4263756300381</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://torontolashsupplies.ca/products/4197254594653</id>
+    <published>2019-10-07T20:19:04-04:00</published>
+    <updated>2019-10-07T20:19:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://torontolashsupplies.ca/products/step-3-permania-lash-conditioner"/>
+    <title>Step 3 Permania lash conditioner</title>
+    <s:type></s:type>
+    <s:vendor>permania</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2075/9831/products/IMG_5302_8befca46-4b3f-45b7-9bb3-2b45cca3d1dc.jpg?v=1577672247"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>permania<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Box of 10 individual sachets</p>
+<p>step 3 conditioner</p>
+<p>3 mins </p>
+<meta charset="utf-8"><meta charset="utf-8">
+<p><strong>Step 3 (conditioner):<span> </span></strong>water, glycerin, alcohol, phytosphingosine phosphate, polysorbate 20, sodium ascorbyl phosphate, butylene glycol, lecithin, angelica gigas root extract, sophora flavescens root extract, panax gindenseng root extract,<span>Glycyrrhiza Glabra (Licorice) Root Extract Sodium Polyacrylate</span><br><span>Methylparaben</span><br><span>Scutellaria Baicalensis Root Extract Salix Alba (Willow) Bark Extract Propolis Extract</span><br><span>Anthemis Nobilis Flower Extract Asparagus Cochinchinensis Root Extract Xanthium Strumarium Fruit Extract Sasa Quelpaertensis Extract</span><br><span>Citrus Grandis (Grapefruit) Fruit Extrace Houttuynia Cordata Extract</span><br><span>Bupleurum Chinensis Root Extract Crocus Sativus Flower Extract,Centella Asiatica Extract<br>Magnolia Kobus Bark Extract<br>Ophiopogon Japonicus Root Extract<br>Portulaca Oleracea Extract<br>Camellia Japonica Seed Oil<br>Lonicera Japonica (Honeysuckle) Flower Extract Alpinia Officinarum Root Extract<br>Disodium EDTA<br>Maltitol<br>Propylene Glycol<br>Carbomer</span><br></p>
+<p><span><br></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/4197254594653</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://torontolashsupplies.ca/products/4197250498653</id>
+    <published>2019-10-07T20:17:51-04:00</published>
+    <updated>2019-10-07T20:17:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://torontolashsupplies.ca/products/permania-step-2"/>
+    <title>Permania step 2 ( sodium bromate free version)</title>
+    <s:type>Lash Lift</s:type>
+    <s:vendor>permania</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2075/9831/products/image.png?v=1597848347"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>permania<br>
+        <strong>Type: </strong>Lash Lift<br>
+        <strong>Price: </strong>
+            27.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Box of 10 individual sachets step 2 Permania ( neutralizer)</p>
+<p>7-10 mins processing time </p>
+<p><br></p>
+<meta charset="utf-8">
+<p><strong>Ingredients: </strong></p>
+<p>Second Step ( Neutralizer): cetearyl alcohol, mineral oil, hydrogen peroxide, sodium laureth sulfate, bethentrimonium chloride, glyceryl sterate, ceteth-20, disodium phosphate, disodium EDTA, phosphoric acid, fragrance, phenacetin</p>
+<p> <br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/4197250498653</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">27.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://torontolashsupplies.ca/products/4197240832093</id>
+    <published>2019-10-07T20:15:19-04:00</published>
+    <updated>2019-10-07T20:15:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://torontolashsupplies.ca/products/permania-step-1"/>
+    <title>Permania Step 1 ( sodium bromate free version)</title>
+    <s:type>Lash Lift</s:type>
+    <s:vendor>permania</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2075/9831/products/image_8e50d7ab-5514-4385-a520-a7b2292abbf5.png?v=1597848375"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>permania<br>
+        <strong>Type: </strong>Lash Lift<br>
+        <strong>Price: </strong>
+            27.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>10 individual sachets of Permania step 1</p>
+<p>7 mins processing time</p>
+<meta charset="utf-8">
+<p><strong>Ingredients: </strong></p>
+<p>First Step ( Perming) water , ethanlamine thioglycolate, mineral oil, cetearyl alcohol, glyceryl stearate, proplene glycol, ethanolamine, PEG-100 Stearate, cetrimonium chloride, petrolatum, sorbitan sesquioleate, hydrolyzed collagen, etidronic acid, fragrance </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/4197240832093</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">27.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://torontolashsupplies.ca/products/4184622661725</id>
+    <published>2019-10-02T12:24:05-04:00</published>
+    <updated>2019-10-02T12:24:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://torontolashsupplies.ca/products/toronto-lash-supplies-instant-lash-lift-kit"/>
+    <title>Toronto Lash Supplies Instant Lash and Brow Keratin Lift Kit</title>
+    <s:type></s:type>
+    <s:vendor>TLS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2075/9831/products/lash_lift_kit.jpg?v=1574356811"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>TLS<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            89.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our very own keratin lash lift kit is finally here- sodium bromate free! </p>
+<p>Extremely quick processing times* (5-7 mins for step 1,2 and 2 mins for step 3)</p>
+<p>  This kit features air tight pump bottles for each solution. Air tight pump bottles are the newest form of packaging for lash lift kits!  Solutions are packaged in an air tight pump bottle allowing solutions to have a much longer shelf life ( even after opening), zero chances of contamination and reduces waste ( unlike individual packages of each solution) </p>
+<p>Timing for Lash Lift:</p>
+<p>step 1 : 6-7 mins for average lashes, up to 9 mins for thick lashes</p>
+<p>step 2: 7-8 mins for average lashes , up to 10 mins for thick lashes </p>
+<p>step 3- 3 mins </p>
+<p>Each Kit Includes</p>
+<p>1 Lash lift Glue</p>
+<p>1 lifting lotion in air pump bottle</p>
+<p>1 setting lotion in air pump bottle</p>
+<p>1 nourishing lotion in air pump bottle</p>
+<p>5 pairs shields (small and medium)</p>
+<p>3 y  combs</p>
+<meta charset="utf-8">
+<p><strong>For brow lifting*</strong></p>
+<p>Instructions:<br>- Clean the eyebrow area <br>- Apply glue on any unruly hairs using a brush to brush the hairs up.<br>- Carefully Apply step 1 Lifting on the eyebrows avoiding the skin around<br>- Leave on for 3- 5min <br>- Remove Step 1 with a dry cotton pad<br>- Apply step 2 Fixing on the eyebrows avoiding the skin around.<br>- Leave on for 3-5 min<br>- Remove step 2 with a dry cotton pad<br>- Apply Step 3 Nourish on the eyebrows <br>- Leave on for 3-5 min<br>- Remove step 3 with a dry cotton pad<br>- Style eyebrows to your liking ( wax, trim etc)</p>
+<p><strong>Ingredients: </strong></p>
+<p><strong>Step 1:</strong><em><b> </b>﻿water , thioglycolate, ethanolamine, cetearyl alcohol, oleth-30, ammonia, pentasodium pentetate</em></p>
+<p><strong>Step 2: </strong>water, sodium stannate, cetearyl alcohol, hedp, hydrogen peroxide, disodium phosphate</p>
+<p><b>Step 3: </b>water, keratin, portulaca oleracea extract, sophora flavescens root extract, helianthus annus seed oil , triethanolamine, sodium hyaluronate, hydroxy benzyl ester. </p>
+<p><b>Glue : </b>water, polyvinyl phenoxyethanol, ethylhexylglycerin, PEG 40 hydrogenated castor oil, glycerin </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/4184622661725</id>
+      <title>10 ml (20 clients)</title>
+      <s:price currency="CAD">89.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://torontolashsupplies.ca/products/3688395636829</id>
+    <published>2019-07-23T17:51:02-04:00</published>
+    <updated>2019-07-23T17:51:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://torontolashsupplies.ca/products/refectocil-lash-tint"/>
+    <title>Refectocil lash tint</title>
+    <s:type></s:type>
+    <s:vendor>refectocil</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2075/9831/products/Jenn_TBLS-44.jpg?v=1571712753"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>refectocil<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            18.99 - 19.99
+            <a href="https://torontolashsupplies.ca/products/refectocil-lash-tint">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Perfect for eyebrow and eyelash tinting, must be used in combination with refectocil 3% oxidant</p>
+<p><strong>﻿Ingredients:</strong>﻿Aqua, Cetearyl Alcohol, Toluene-2,5-Diamine, m-Aminophenol, Bis-Diglyceryl Polyacyladipate-2, PEG-40 Hydrogenated Castor Oil, Sodium Cetearyl Sulfate, 2,4-Diaminophenoxyethanol, Sodium Laureth Sulfate, CI 77499.</p>
+<p><strong>﻿How to Use: </strong>﻿mix a penny sized tint with one drop of oxidant to activate color, brush onto lashes or brows with qtip and leave on for 5 mins before removing. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/3688395636829</id>
+      <title>Blue black</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/3688395636829</id>
+      <title>Black</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/3688395636829</id>
+      <title>Brown</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/3688395636829</id>
+      <title>Red</title>
+      <s:price currency="CAD">18.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/3688395636829</id>
+      <title>Chestnut</title>
+      <s:price currency="CAD">18.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://torontolashsupplies.ca/products/1405809754205</id>
+    <published>2018-09-05T16:28:44-04:00</published>
+    <updated>2018-09-05T16:28:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://torontolashsupplies.ca/products/permania-lash-lift-kit"/>
+    <title>Permania lash lift kit ( includes glue and lift pads)</title>
+    <s:type>Lash Lift</s:type>
+    <s:vendor>permania</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2075/9831/products/Jenn_TBLS-13.jpg?v=1571712752"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>permania<br>
+        <strong>Type: </strong>Lash Lift<br>
+        <strong>Price: </strong>
+            89.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Permania lash lift kit </p>
+<p><strong>includes: </strong>perm, neutralizer and conditioner individual sachets ( 10 of each)</p>
+<p>Permania glue</p>
+<p>small and medium lift pads ( 5 pairs of each)</p>
+<p><strong>Timing:</strong></p>
+<p>Perm:10 mins</p>
+<p>Neutralizer: 8-12 mins</p>
+<p>Conditioner: 3 mins</p>
+<p><strong>Ingredients: </strong></p>
+<p><strong>Step 1 ( perming): </strong>water, ethanolamine thioglycolate, monoethanolamine, cethy alcohol, emacol, triethanolamine, perfume, color</p>
+<p><strong>Step 2 (neutralizer): </strong>water, cethy alcohol, emacol, perfume, color</p>
+<p><strong>Step 3 (conditioner): </strong>water, glycerin, alcohol, phytosphingosine phosphate, polysorbate 20, sodium ascorbyl phosphate, butylene glycol, lecithin, angelica gigas root extract, sophora flavescens root extract, panax gindenseng root extract,<span>Glycyrrhiza Glabra (Licorice) Root Extract Sodium Polyacrylate</span><br><span>Methylparaben</span><br><span>Scutellaria Baicalensis Root Extract Salix Alba (Willow) Bark Extract Propolis Extract</span><br><span>Anthemis Nobilis Flower Extract Asparagus Cochinchinensis Root Extract Xanthium Strumarium Fruit Extract Sasa Quelpaertensis Extract</span><br><span>Citrus Grandis (Grapefruit) Fruit Extrace Houttuynia Cordata Extract</span><br><span>Bupleurum Chinensis Root Extract Crocus Sativus Flower Extract,Centella Asiatica Extract<br>Magnolia Kobus Bark Extract<br>Ophiopogon Japonicus Root Extract<br>Portulaca Oleracea Extract<br>Camellia Japonica Seed Oil<br>Lonicera Japonica (Honeysuckle) Flower Extract Alpinia Officinarum Root Extract<br>Disodium EDTA<br>Maltitol<br>Propylene Glycol<br>Carbomer</span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/1405809754205</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">89.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://torontolashsupplies.ca/products/1322311647325</id>
+    <published>2018-07-19T07:47:23-04:00</published>
+    <updated>2018-07-19T07:47:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://torontolashsupplies.ca/products/wholesale-dolly-lash-glue"/>
+    <title>Wholesale - Dolly&apos;s Lash Glue</title>
+    <s:type>Lash Lift</s:type>
+    <s:vendor>TLS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2075/9831/products/Jenn_TBLS-15_706181cc-8495-45b0-9b09-dcb12014cb43.jpg?v=1571712752"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>TLS<br>
+        <strong>Type: </strong>Lash Lift<br>
+        <strong>Price: </strong>
+            90.00 - 330.00
+            <a href="https://torontolashsupplies.ca/products/wholesale-dolly-lash-glue">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lash lifting adhesive</p>
+<p><span style="text-decoration: underline;"><strong>Whole sale pricing: </strong></span></p>
+<ul>
+<li>5 for $90 <strong>(SAVE $20)</strong>
+</li>
+<li>10 for $175 <strong>(SAVE $55)</strong>
+</li>
+<li>20 for $330 ( <strong>Save $70)</strong>
+</li>
+</ul>
+<p><strong>Ingredients:</strong></p>
+<meta charset="utf-8">
+<p>Glue: Water, PVOH, Glycerin, Hydrogenated Castor Oil, Methylparaben</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dolly Lash</s:tag>
+    <s:tag>Eyelash Supplies</s:tag>
+    <s:tag>Eyelashes</s:tag>
+    <s:tag>Lash Lift</s:tag>
+    <s:tag>Lash Lift Glue</s:tag>
+    <s:tag>Lash Lift Supplies</s:tag>
+    <s:tag>Lash Perm</s:tag>
+    <s:tag>Lash Products</s:tag>
+    <s:tag>Wholesale</s:tag>
+    <s:tag>Wholesale Lash Supplies</s:tag>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/1322311647325</id>
+      <title>5-Pack</title>
+      <s:price currency="CAD">90.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/1322311647325</id>
+      <title>10-Pack</title>
+      <s:price currency="CAD">175.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/1322311647325</id>
+      <title>20 Pack</title>
+      <s:price currency="CAD">330.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://torontolashsupplies.ca/products/525834223657</id>
+    <published>2018-03-09T15:17:23-05:00</published>
+    <updated>2018-03-09T15:17:23-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://torontolashsupplies.ca/products/value-pack-dolly-lash-silicon-rods-small-medium-and-large"/>
+    <title>Dolly&apos;s Silicon Under Eye Pads - Value Pack</title>
+    <s:type>Tools &amp; Supplies</s:type>
+    <s:vendor>dolly</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2075/9831/products/Jenn_TBLS-19.jpg?v=1571712751"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>dolly<br>
+        <strong>Type: </strong>Tools &amp; Supplies<br>
+        <strong>Price: </strong>
+            26.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<h1 id="title" class="a-size-large a-spacing-none"></h1>
+<p><span class="a-size-large">Silicon under eye pads are easy to use on your clients!</span></p>
+<p><span class="a-size-large">Value pack includes:</span></p>
+<ul>
+<li>3 boxes: Small / Medium / Large pads</li>
+<li>Each box contains 10 pads</li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dolly Lash</s:tag>
+    <s:tag>Lash Lift Supplies</s:tag>
+    <s:tag>Lash Lift Tools</s:tag>
+    <s:tag>Lash Products</s:tag>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/525834223657</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">26.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://torontolashsupplies.ca/products/474027130921</id>
+    <published>2018-02-12T10:03:30-05:00</published>
+    <updated>2018-02-12T10:03:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://torontolashsupplies.ca/products/dolly-lash-t-tool-pack-of-3"/>
+    <title>3-Pack Lash T Tool</title>
+    <s:type>Tools &amp; Supplies</s:type>
+    <s:vendor>TLS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2075/9831/products/image_607b9ac5-d701-4fc3-b60e-fea010198c7d.jpg?v=1571712751"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>TLS<br>
+        <strong>Type: </strong>Tools &amp; Supplies<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A must-have for lash lifting ! This little comb features 2 separate sides, one side has a spiked edge to separate the natural lashes 1 by 1 while the other side features a flat edge to light multiple lashes onto the rod effortlessly. These combs are reusable and can be wiped down with alcohol. Each pack has 3 tools. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Eyelash Supplies</s:tag>
+    <s:tag>Eyelash Tools</s:tag>
+    <s:tag>Lash Lift Supplies</s:tag>
+    <s:tag>Lash Lift Tools</s:tag>
+    <s:tag>Lash Perm</s:tag>
+    <s:tag>Lash Products</s:tag>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/474027130921</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>TLS-TOOL-COMB-PACKLASHT</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://torontolashsupplies.ca/products/9865581960</id>
+    <published>2017-06-10T20:24:15-04:00</published>
+    <updated>2017-06-10T20:24:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://torontolashsupplies.ca/products/dolly-lash-silicon-eye-pads"/>
+    <title>Dolly&apos;s Lash Silicon Eye Pads</title>
+    <s:type>Tools &amp; Supplies</s:type>
+    <s:vendor>dolly</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2075/9831/products/image_9433024a-762e-4d78-a27c-78ce20af5901.jpg?v=1571712751"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>dolly<br>
+        <strong>Type: </strong>Tools &amp; Supplies<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Easy to use silicon eye pads for lash lifts!</p>
+<ul>
+<li>Pack of 10</li>
+<li>
+<strong><em>Sizes available:</em></strong> Small/Medium/Large</li>
+<li>can be washed and sanitized </li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Eyelash Tools</s:tag>
+    <s:tag>Lash Extension Supplies</s:tag>
+    <s:tag>Lash Extension Tools</s:tag>
+    <s:tag>Lash Extensions</s:tag>
+    <s:tag>Lash Lift</s:tag>
+    <s:tag>Lash Lift Supplies</s:tag>
+    <s:tag>Lash Lift Tools</s:tag>
+    <s:tag>Lash Products</s:tag>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/9865581960</id>
+      <title>Small</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/9865581960</id>
+      <title>Medium</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/9865581960</id>
+      <title>Large</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://torontolashsupplies.ca/products/9865577160</id>
+    <published>2017-06-10T20:22:08-04:00</published>
+    <updated>2017-06-10T20:22:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://torontolashsupplies.ca/products/dolly-lash-glue"/>
+    <title>Dolly&apos;s Lash Lift Glue</title>
+    <s:type>Lash Lift Glue</s:type>
+    <s:vendor>dolly</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2075/9831/products/Jenn_TBLS-15.jpg?v=1571712751"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>dolly<br>
+        <strong>Type: </strong>Lash Lift Glue<br>
+        <strong>Price: </strong>
+            20.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Excellent adhesive for lash lifts!</p>
+<p>Securely lifts the natural lashes onto the rod effortlessly and dissolves with water. </p>
+<meta charset="utf-8">
+<p> </p>
+<p><strong>Ingredient List:</strong> Glue: Water, PVOH, Glycerin, Hydrogenated Castor Oil, Methylparaben</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Eyelash Adhesive</s:tag>
+    <s:tag>Eyelash Supplies</s:tag>
+    <s:tag>Lash Adhesive</s:tag>
+    <s:tag>Lash Lift</s:tag>
+    <s:tag>Lash Lift Glue</s:tag>
+    <s:tag>Lash Lift Supplies</s:tag>
+    <s:tag>Lash Products</s:tag>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/9865577160</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">20.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,728 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://torontolashsupplies.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://torontolashsupplies.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://torontolashsupplies.ca/collections/tweezers.atom"/>
+  <title>Toronto Lash Supplies </title>
+  <updated>2021-03-26T16:44:39-04:00</updated>
+  <author>
+    <name>Toronto Lash Supplies </name>
+  </author>
+  <entry>
+    <id>https://torontolashsupplies.ca/products/6583948017850</id>
+    <published>2021-03-26T16:44:39-04:00</published>
+    <updated>2021-03-26T16:44:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://torontolashsupplies.ca/products/tweezer-stand"/>
+    <title>Tweezer stand</title>
+    <s:type></s:type>
+    <s:vendor>Toronto Lash Supplies </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2075/9831/products/image_d43df01a-18f0-4fee-b002-3c68e6ecd989.jpg?v=1616791483"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Toronto Lash Supplies <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Keep organized with this amazing tweezer stand/ display that fits up to 8 tweezers! Made with high quality acrylic !</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/6583948017850</id>
+      <title>Black</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/6583948017850</id>
+      <title>White</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://torontolashsupplies.ca/products/6173100966074</id>
+    <published>2021-01-14T13:59:40-05:00</published>
+    <updated>2021-01-14T13:59:40-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://torontolashsupplies.ca/products/tweezer-disinfect"/>
+    <title>Tweezer disinfect</title>
+    <s:type></s:type>
+    <s:vendor>Toronto Lash Supplies </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2075/9831/products/image_62f541b8-0337-4a74-93d7-f7dbd3d0af11.jpg?v=1610650776"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Toronto Lash Supplies <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Tweezer Disinfectant </p>
+<p>Purpose of the product: The tweezers can be disinfected so quick and comfortable.<br>How to Use: Dip the tweezer in a tweezer cleaner and rub it on a sponge to clean it. Take out the tweezer and wipe the remaining debris with a tissue.<br>Precautions: Use tweezer coated with paint carefully as the tweezer's paint may come off.<br>Please keep the lid closed after using it.<br>Use is prohibited outside of the intended use.<br>Please keep it out of the reach of children.<br>Capacity: 20ml</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/6173100966074</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://torontolashsupplies.ca/products/6144593100986</id>
+    <published>2020-12-27T20:11:54-05:00</published>
+    <updated>2020-12-27T20:11:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://torontolashsupplies.ca/products/gold-tipped-matt-black-diamond-grip-volume-tweezer"/>
+    <title>Gold Tipped Matt Black Diamond Grip Tweezer Collection</title>
+    <s:type></s:type>
+    <s:vendor>Toronto Lash Supplies </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2075/9831/products/image_c36e2eb4-8bc9-4dbd-80fc-99a46caed5dd.jpg?v=1616954597"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Toronto Lash Supplies <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.99 - 149.99
+            <a href="https://torontolashsupplies.ca/products/gold-tipped-matt-black-diamond-grip-volume-tweezer">(10 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span data-mce-fragment="1">The tweezers in this collection are specially made- the  tips are plated with anti rust gold and the body comes in an extra grip matte black finish. These tweezers are interchangeable between classic and volume lashing which is why they have quickly become a lash artist favourite and best seller! Each pair is hand tested before sold to ensure they close precisely.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/6144593100986</id>
+      <title>Straight</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/6144593100986</id>
+      <title>Curved</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/6144593100986</id>
+      <title>Fat Boot</title>
+      <s:price currency="CAD">22.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/6144593100986</id>
+      <title>Skinny Boot</title>
+      <s:price currency="CAD">22.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/6144593100986</id>
+      <title>Long J</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/6144593100986</id>
+      <title>Volume</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/6144593100986</id>
+      <title>90 Degree</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/6144593100986</id>
+      <title>Curved isolation</title>
+      <s:price currency="CAD">22.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/6144593100986</id>
+      <title>Angled volume</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/6144593100986</id>
+      <title>Entire set ( 9 tweezers)</title>
+      <s:price currency="CAD">149.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://torontolashsupplies.ca/products/5550801911958</id>
+    <published>2020-07-30T21:09:33-04:00</published>
+    <updated>2020-07-30T21:09:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://torontolashsupplies.ca/products/vetus-volume-boot-tweezer"/>
+    <title>Vetus volume boot tweezer 6A-SA</title>
+    <s:type></s:type>
+    <s:vendor>Toronto Lash Supplies </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2075/9831/products/image_3dcb1d67-1bcb-4d71-b536-291a1a97445e.jpg?v=1596157777"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Toronto Lash Supplies <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Made from high quality stainless steel material , produced to create volume fans easily and precisely.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/5550801911958</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://torontolashsupplies.ca/products/4712353923165</id>
+    <published>2020-05-14T19:44:42-04:00</published>
+    <updated>2020-05-14T19:44:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://torontolashsupplies.ca/products/long-j-curved-diamond-grip-curve-tweezer"/>
+    <title>Long &quot;J&quot; Curved Diamond Grip Curve Tweezer</title>
+    <s:type></s:type>
+    <s:vendor>Toronto Lash Supplies </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2075/9831/products/jcurved.jpg?v=1589500490"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Toronto Lash Supplies <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Extended length from our classic curved tweezer, this tweezers length allows for comfort and convience due to it's added length. Enhanced with diamond grip technology and hand tested to make sure each pair closes precisely at it's tips.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/4712353923165</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://torontolashsupplies.ca/products/4712349892701</id>
+    <published>2020-05-14T19:42:51-04:00</published>
+    <updated>2020-05-14T19:42:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://torontolashsupplies.ca/products/curved-isolation-tweezer"/>
+    <title>Curved Isolation Tweezer</title>
+    <s:type></s:type>
+    <s:vendor>TLS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2075/9831/products/curvedisolationtweezer.jpg?v=1589500074"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>TLS<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Made of Japanese Steel, enhanced with diamond grip technology. This tweezer is an amazing isolation tweezer for lash artists that want to up their game in isolating natural eyelashes! The tweezer is engineered to isolate effortlessly and precisely letting the tweezer do the job at ease.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/4712349892701</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://torontolashsupplies.ca/products/4712294973533</id>
+    <published>2020-05-14T19:25:25-04:00</published>
+    <updated>2020-05-14T19:25:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://torontolashsupplies.ca/products/l-tweeezer"/>
+    <title>L-90 Degree Tweeezer</title>
+    <s:type></s:type>
+    <s:vendor>Toronto Lash Supplies </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2075/9831/products/90degree.png?v=1589500318"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Toronto Lash Supplies <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Made of Japanese Steel, these tweezers are a game changer for both volume and classic lashing. The angle of the tweezer allows for easy pick up and placement of each lash. Each pair is hand tested to guarantee precision.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/4712294973533</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://torontolashsupplies.ca/products/4525668434013</id>
+    <published>2020-01-29T14:31:00-05:00</published>
+    <updated>2020-01-29T14:31:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://torontolashsupplies.ca/products/angled-boot-volume-tweezer"/>
+    <title>“Angled boot” diamond grip volume tweezer</title>
+    <s:type>Tools &amp; Supplies</s:type>
+    <s:vendor>TLS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2075/9831/products/image_cb9e984d-7e13-4ecf-891f-cef2a41aaf82.jpg?v=1580927849"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>TLS<br>
+        <strong>Type: </strong>Tools &amp; Supplies<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Our angled boot volume tweezer is made of highest quality stainless steel and hand tested to make sure each tweezer closes presicely! The angled tweezer is great to get into the inner corners and the diamond grip technology enhances the tweezers grip.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/4525668434013</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://torontolashsupplies.ca/products/4525667876957</id>
+    <published>2020-01-29T14:30:42-05:00</published>
+    <updated>2020-01-29T14:30:42-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://torontolashsupplies.ca/products/thick-boot-volume-tweezer"/>
+    <title>“Fat boot” diamond grip volume tweezer</title>
+    <s:type>Tools &amp; Supplies</s:type>
+    <s:vendor>TLS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2075/9831/products/image_1ce52ba9-5eca-422f-a430-77911ab816a5.jpg?v=1580927737"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>TLS<br>
+        <strong>Type: </strong>Tools &amp; Supplies<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Our thick boot diamond grip volume tweezer is great for those who like a heavier feeling volume tweezer. This tweezer is great for volume lashes 0.03-0.07! Made from high quality stainless steel metals and hand tested to ensure they close precisely at the tip.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/4525667876957</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://torontolashsupplies.ca/products/4525666926685</id>
+    <published>2020-01-29T14:30:19-05:00</published>
+    <updated>2020-01-29T14:30:19-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://torontolashsupplies.ca/products/skinny-boot-volume-tweezer"/>
+    <title>“Skinny Boot”diamond grip volume tweezer</title>
+    <s:type>Tools &amp; Supplies</s:type>
+    <s:vendor>TLS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2075/9831/products/image_6a9e612b-cd9f-4c26-82c4-939422c75e7c.jpg?v=1580927701"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>TLS<br>
+        <strong>Type: </strong>Tools &amp; Supplies<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Made of only highest grade stainless steel, our skinny boot tweezer is amazing for fanning out 0.03-0.07 lashes! enhanced with diamond grip technology and hand tested to ensure they closer precisely at the tip.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/4525666926685</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://torontolashsupplies.ca/products/3624456061021</id>
+    <published>2019-06-21T12:47:23-04:00</published>
+    <updated>2019-06-21T12:47:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://torontolashsupplies.ca/products/diamond-grip-curved-tweeer"/>
+    <title>Diamond grip curved tweeer</title>
+    <s:type>Tools &amp; Supplies</s:type>
+    <s:vendor>TLS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2075/9831/products/Jenn_TBLS-39.jpg?v=1571712753"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>TLS<br>
+        <strong>Type: </strong>Tools &amp; Supplies<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Made with medical grade metals and enhanced with diamond grip to decrease chances of tweezer slipping or dropping. </p>
+<p>Every pair is hand tested before being sold to ensure accuracy and sharpness of the tips. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/3624456061021</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://torontolashsupplies.ca/products/3624455045213</id>
+    <published>2019-06-21T12:45:42-04:00</published>
+    <updated>2019-06-21T12:45:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://torontolashsupplies.ca/products/diamond-grip-volume-tweezer"/>
+    <title>Diamond grip volume tweezer</title>
+    <s:type>Tools &amp; Supplies</s:type>
+    <s:vendor>TLS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2075/9831/products/Jenn_TBLS-41.jpg?v=1571712753"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>TLS<br>
+        <strong>Type: </strong>Tools &amp; Supplies<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Made with medical grade materials, enhanced with diamond grip technology to decrease the chances of tweezers dropping or slipping</p>
+<p>hand tested before every pair is sold to ensure accuracy and sharpness of the tips. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/3624455045213</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://torontolashsupplies.ca/products/3624450785373</id>
+    <published>2019-06-21T12:41:13-04:00</published>
+    <updated>2019-06-21T12:41:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://torontolashsupplies.ca/products/diamond-grip-isolation-tweezer"/>
+    <title>Diamond grip isolation tweezer</title>
+    <s:type>Tools &amp; Supplies</s:type>
+    <s:vendor>TLS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2075/9831/products/Jenn_TBLS-42.jpg?v=1571712753"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>TLS<br>
+        <strong>Type: </strong>Tools &amp; Supplies<br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Medical grade straight tweezers used for isolation of lashes, enhanced with diamond grip technology to decrease change of slipping. Extra find and sharp, hand tested before being sold! </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/3624450785373</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://torontolashsupplies.ca/products/3624361754717</id>
+    <published>2019-06-21T11:34:19-04:00</published>
+    <updated>2019-06-21T11:34:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://torontolashsupplies.ca/products/angled-volume-tweezer"/>
+    <title>Angled volume tweezer</title>
+    <s:type>Tools &amp; Supplies</s:type>
+    <s:vendor>TLS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2075/9831/products/Jenn_TBLS-40.jpg?v=1571712753"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>TLS<br>
+        <strong>Type: </strong>Tools &amp; Supplies<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This volume tweezer is a game changer! Perfect for all volume lashing from 0.03-0.07! Hand tested before sold and guaranteed to be a crowd pleaser!</p>
+<p>made with medical grade material* </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/3624361754717</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://torontolashsupplies.ca/products/1475700490333</id>
+    <published>2018-09-24T21:57:05-04:00</published>
+    <updated>2018-09-24T21:57:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://torontolashsupplies.ca/products/whole-sale-vetus-straight-tweezers"/>
+    <title>Whole Sale Vetus Straight Tweezers</title>
+    <s:type>Tools &amp; Supplies</s:type>
+    <s:vendor>TLS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2075/9831/products/image_f029efdc-e424-4119-8933-6c2bea614697.jpg?v=1571712752"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>TLS<br>
+        <strong>Type: </strong>Tools &amp; Supplies<br>
+        <strong>Price: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pack of 5 vetus straight tweezers (St-11)</p>
+<p>Save 10$ when you buy in wholesale</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lash Extensions</s:tag>
+    <s:tag>vetus tweezers</s:tag>
+    <s:tag>wholesale</s:tag>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/1475700490333</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">50.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://torontolashsupplies.ca/products/1475699114077</id>
+    <published>2018-09-24T21:54:43-04:00</published>
+    <updated>2018-09-24T21:54:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://torontolashsupplies.ca/products/whole-sale-vetus-curved-tweezers"/>
+    <title>Whole Sale Vetus Curved Tweezers 7-sa</title>
+    <s:type>Tools &amp; Supplies</s:type>
+    <s:vendor>TLS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2075/9831/products/Jenn_TBLS-36_21fd6442-1137-423c-891b-e529152e93cf.jpg?v=1571712752"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>TLS<br>
+        <strong>Type: </strong>Tools &amp; Supplies<br>
+        <strong>Price: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pack of 5 vetus curved tweezers</p>
+<p>Save 10$ when buying wholesale </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>lash supplies</s:tag>
+    <s:tag>vetus tweezers</s:tag>
+    <s:tag>wholesale lashes</s:tag>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/1475699114077</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">50.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://torontolashsupplies.ca/products/9853489480</id>
+    <published>2017-06-09T09:56:25-04:00</published>
+    <updated>2017-06-09T09:56:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://torontolashsupplies.ca/products/vetus-straight-or-curved-tweezers"/>
+    <title>Vetus Tweezers</title>
+    <s:type>Tools &amp; Supplies</s:type>
+    <s:vendor>TLS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2075/9831/products/Jenn_TBLS-35.jpg?v=1571712751"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>TLS<br>
+        <strong>Type: </strong>Tools &amp; Supplies<br>
+        <strong>Price: </strong>
+            11.99 - 19.99
+            <a href="https://torontolashsupplies.ca/products/vetus-straight-or-curved-tweezers">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> </p>
+<p>Perfect for isolation and placement of lashes. Precise and sharp , curved tweezers recommended for volume.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Eyelash Supplies</s:tag>
+    <s:tag>Eyelash Tools</s:tag>
+    <s:tag>Lash Extension Supplies</s:tag>
+    <s:tag>Lash Extension Tools</s:tag>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/9853489480</id>
+      <title>Curved</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/9853489480</id>
+      <title>Straight</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/9853489480</id>
+      <title>Volume</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+</feed>

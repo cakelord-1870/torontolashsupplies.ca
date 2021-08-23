@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://torontolashsupplies.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://torontolashsupplies.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://torontolashsupplies.ca/collections/aftercare.atom"/>
+  <title>Toronto Lash Supplies </title>
+  <updated>2020-12-28T14:59:04-05:00</updated>
+  <author>
+    <name>Toronto Lash Supplies </name>
+  </author>
+  <entry>
+    <id>https://torontolashsupplies.ca/products/6128744300730</id>
+    <published>2020-12-28T14:59:04-05:00</published>
+    <updated>2020-12-28T14:59:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://torontolashsupplies.ca/products/mini-cool-air-conditioner-pink"/>
+    <title>Mini cool air conditioner ( pink)</title>
+    <s:type></s:type>
+    <s:vendor>Toronto Lash Supplies </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2075/9831/products/image_2e25b290-3113-4894-9339-45ae6778a3ce.jpg?v=1608065081"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Toronto Lash Supplies <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            23.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Mini air conditoner to help speed up process of drying adhesive </p>
+<p>provided relief to clients eyes right after lash application</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/6128744300730</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">23.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://torontolashsupplies.ca/products/5868606324886</id>
+    <published>2020-11-05T12:34:11-05:00</published>
+    <updated>2020-11-05T12:34:11-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://torontolashsupplies.ca/products/nano-mister"/>
+    <title>Nano mister</title>
+    <s:type></s:type>
+    <s:vendor>Toronto Lash Supplies </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2075/9831/products/image_3ff3dea4-848e-44a3-a074-394e8e74aa8d.jpg?v=1603981690"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Toronto Lash Supplies <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>USB charged nano mister to help cure glue on fresh set of lashes! Simply plug in to charge, fill with distilled water and mist away! </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/5868606324886</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://torontolashsupplies.ca/products/5244364521622</id>
+    <published>2020-05-26T19:08:57-04:00</published>
+    <updated>2020-05-26T19:08:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://torontolashsupplies.ca/products/lash-wash-brush-pink"/>
+    <title>Lash wash brush (Pink)</title>
+    <s:type></s:type>
+    <s:vendor>Toronto Lash Supplies </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2075/9831/products/image_a3f743f6-7875-4326-8c28-fde88bee77d1.jpg?v=1590534647"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Toronto Lash Supplies <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2.99 - 50.00
+            <a href="https://torontolashsupplies.ca/products/lash-wash-brush-pink">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Brush used for lash baths!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/5244364521622</id>
+      <title>Pack of 5</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/5244364521622</id>
+      <title>Pack of 10</title>
+      <s:price currency="CAD">28.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/5244364521622</id>
+      <title>Pack of 20</title>
+      <s:price currency="CAD">50.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/5244364521622</id>
+      <title>1 piece</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://torontolashsupplies.ca/products/4263768522845</id>
+    <published>2019-10-14T11:57:59-04:00</published>
+    <updated>2019-10-14T11:57:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://torontolashsupplies.ca/products/keratin-lash-gel"/>
+    <title>Keratin Lash Gel</title>
+    <s:type>Lash Extension Product</s:type>
+    <s:vendor>TLS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2075/9831/products/Snapseed_102.jpg?v=1577671534"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>TLS<br>
+        <strong>Type: </strong>Lash Extension Product<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This is an after care product to sell to clients after a lash lift! Our keratin lash mascara provides nourishing and hydrating effects post lash lift. Advise clients to apply this keratin gel to lifted lashes daily in order to keep the lashes healthy and nourished</p>
+<p><strong>Ingredients: </strong>water, keratinn, portulaca olercea extract, helianthus annuus seed oil, tirethanolamine, sodium hylauronate, hydroxybenzyl ester<br></p>
+<p><strong>﻿How to use: </strong>﻿this product comes in a mascara like tube and wand, please ask clients to use once per day after lash lift procedure. It is easy to use and applies like a clear mascara gel to help nourish the lifted lashes. <br></p>
+<p>Suggested Retail Price : $49.99</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/4263768522845</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://torontolashsupplies.ca/products/3521670545501</id>
+    <published>2019-05-01T14:21:16-04:00</published>
+    <updated>2019-05-01T14:21:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://torontolashsupplies.ca/products/prolash-lash-and-brow-growth-serum"/>
+    <title>FEG lash and brow growth serum</title>
+    <s:type></s:type>
+    <s:vendor>Toronto Lash Supplies </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2075/9831/products/image_1408c8ad-1ae4-4ad6-9692-1ef5416711e9.jpg?v=1586880972"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Toronto Lash Supplies <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Use this serum to promote and speed up lash and brow growth</p>
+<p>please use twice a day on bare lashes or brows or lashes with extensions from the root of the eyelash ( near the eyelid) apply once in the morning and once at night after washing face. use for a continuous of 2-3 weeks to see results. </p>
+<p> Made from natural amino acids and proteins,can be used on lash extensions <br></p>
+<p><strong>﻿Ingredients:</strong>﻿ vitamin E, Bitter orange flower oil, and vitamin C, </p>
+<meta charset="utf-8">
+<p><span>Myristoyl Pentapeptide-17.</span></p>
+<p>retail price $39.99</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/3521670545501</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://torontolashsupplies.ca/products/1926204096605</id>
+    <published>2018-12-10T20:34:57-05:00</published>
+    <updated>2018-12-10T20:34:57-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://torontolashsupplies.ca/products/lash-foam-cleanser"/>
+    <title>Lash foam cleanser shampoo</title>
+    <s:type>Lash Extension Product</s:type>
+    <s:vendor>TLS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2075/9831/products/image_0bde408f-d933-4edb-b8b5-3b8128aae89b.jpg?v=1616973851"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>TLS<br>
+        <strong>Type: </strong>Lash Extension Product<br>
+        <strong>Price: </strong>
+            14.99 - 250.00
+            <a href="https://torontolashsupplies.ca/products/lash-foam-cleanser">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>An amazing must have foam cleanser that can be sold as a service or a bring home product for clients! This foaming cleanser gently but effectively cleanses eyelash extensions and can be used daily or right before a refill in order for new lash extensions to adhere better. </p>
+<p><strong>﻿Ingredients: </strong>﻿water, sodium coceth 30 sulfate, butylcarbamate, imidazolidinyl, edta disodium, fragrance, PEG80-sorbitan laurate, decanoyl/ octanoyl-glycerides, propylene glycol, iodopropynyl, <br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/1926204096605</id>
+      <title>Lash Shampoo</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/1926204096605</id>
+      <title>Wholesale pack of 5</title>
+      <s:price currency="CAD">59.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/1926204096605</id>
+      <title>Wholesale pack of 10</title>
+      <s:price currency="CAD">119.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/1926204096605</id>
+      <title>Pack of 25</title>
+      <s:price currency="CAD">250.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://torontolashsupplies.ca/products/9867536200</id>
+    <published>2017-06-11T04:07:57-04:00</published>
+    <updated>2017-06-11T04:07:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://torontolashsupplies.ca/products/clear-eyelash-sealer"/>
+    <title>Clear Eyelash Sealer</title>
+    <s:type>Lash Product</s:type>
+    <s:vendor>TLS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2075/9831/products/Jenn_TBLS-49.jpg?v=1571712751"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>TLS<br>
+        <strong>Type: </strong>Lash Product<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A daily clear eyelash serum that helps lash extensions last longer by securing the lash adhesive. Great product to carry as a retail product in your salon ! </p>
+<p> </p>
+<meta charset="utf-8">
+<p><span><strong>Ingredients:</strong>Acrylates, Copolymer,  Water, Carbon Black, Propylene Glycol, </span><span>Phenoxyethanol, </span><span>Methylparaben, Disodium EDTA</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Eyelash Mascara</s:tag>
+    <s:tag>Eyelash Serum</s:tag>
+    <s:tag>Eyelashes</s:tag>
+    <s:tag>Lash Extensions</s:tag>
+    <s:tag>Lash Products</s:tag>
+    <s:tag>Lashes</s:tag>
+    <s:tag>Mascara</s:tag>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/9867536200</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://torontolashsupplies.ca/products/9867532616</id>
+    <published>2017-06-11T04:06:19-04:00</published>
+    <updated>2017-06-11T04:06:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://torontolashsupplies.ca/products/black-coating-eyelash-extension-mascara"/>
+    <title>Lash Extension Mascara</title>
+    <s:type>Lash Product</s:type>
+    <s:vendor>TLS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2075/9831/products/Jenn_TBLS-46.jpg?v=1571712751"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>TLS<br>
+        <strong>Type: </strong>Lash Product<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A water-based mascara that can be safely used with eyelash extensions. use once every 5-7 days or as needed, on top of the fake lashes to make them more dark . It is a stay on product and does not need to be washed off lash extensions. <br data-mce-fragment="1"><br data-mce-fragment="1">Great product to recommend to clients! Made in Korea</p>
+<p><strong>﻿Ingredients: </strong>Acrylates, Copolymer,  Water, Carbon Black, Propylene Glycol, Phenoxyethanol, Methylparaben, Disodium EDTA</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Eyelash Mascara</s:tag>
+    <s:tag>Eyelashes</s:tag>
+    <s:tag>Lash Extensions</s:tag>
+    <s:tag>Lash Products</s:tag>
+    <s:tag>Mascara</s:tag>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/9867532616</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+  </entry>
+</feed>

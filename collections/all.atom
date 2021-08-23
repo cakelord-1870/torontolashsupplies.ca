@@ -1,0 +1,1671 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://torontolashsupplies.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://torontolashsupplies.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://torontolashsupplies.ca/collections/all.atom"/>
+  <title>Toronto Lash Supplies </title>
+  <updated>2021-08-04T23:01:16-04:00</updated>
+  <author>
+    <name>Toronto Lash Supplies </name>
+  </author>
+  <entry>
+    <id>https://torontolashsupplies.ca/products/5335934238870</id>
+    <published>2021-08-04T23:01:16-04:00</published>
+    <updated>2021-08-04T23:01:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://torontolashsupplies.ca/products/self-fanning-single-length-0-05"/>
+    <title>Self Fanning Single Length 0.05</title>
+    <s:type>Lash Extension Product</s:type>
+    <s:vendor>Toronto Lash Supplies </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2075/9831/products/0.03CMIX8-14mm_3.jpg?v=1592273403"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Toronto Lash Supplies <br>
+        <strong>Type: </strong>Lash Extension Product<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p data-mce-fragment="1">Volume lashing has never been easier! These self fanning lashes are engineered so the lashes pretty much fan themselves! New volume lash technicians or lash technicians with little or no volume training will find these a dream to work with.</p>
+<p data-mce-fragment="1">These lashes are soft and silky, not to mention extremely black. They are true to curl and can cut your lashing time in half!</p>
+<meta charset="utf-8"><span data-mce-fragment="1"></span>
+<p data-mce-fragment="1"><span data-mce-fragment="1">12 rows per tray</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Mix Trays:</span><span data-mce-fragment="1"> 8 and 9 mm;one row each, 10-14 mm;2 rows each</span></p>
+<p data-mce-fragment="1">P.S Check our Instagram for a video of how easy they fan! </p>
+<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/5335934238870</id>
+      <title>c/11</title>
+      <s:price currency="CAD">17.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/5335934238870</id>
+      <title>c/12</title>
+      <s:price currency="CAD">17.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/5335934238870</id>
+      <title>c/13</title>
+      <s:price currency="CAD">17.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/5335934238870</id>
+      <title>c/14</title>
+      <s:price currency="CAD">17.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/5335934238870</id>
+      <title>c/15</title>
+      <s:price currency="CAD">17.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/5335934238870</id>
+      <title>d/11</title>
+      <s:price currency="CAD">17.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/5335934238870</id>
+      <title>d/12</title>
+      <s:price currency="CAD">17.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/5335934238870</id>
+      <title>d/13</title>
+      <s:price currency="CAD">17.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/5335934238870</id>
+      <title>d/14</title>
+      <s:price currency="CAD">17.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/5335934238870</id>
+      <title>d/15</title>
+      <s:price currency="CAD">17.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/5335934238870</id>
+      <title>C 8mm</title>
+      <s:price currency="CAD">17.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/5335934238870</id>
+      <title>C 9mm</title>
+      <s:price currency="CAD">17.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/5335934238870</id>
+      <title>C 10mm</title>
+      <s:price currency="CAD">17.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://torontolashsupplies.ca/products/6780292366522</id>
+    <published>2021-08-04T12:03:13-04:00</published>
+    <updated>2021-08-04T12:03:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://torontolashsupplies.ca/products/premade-6d-fans-12mm"/>
+    <title>premade 6d fans 12mm</title>
+    <s:type></s:type>
+    <s:vendor>Toronto Lash Supplies </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Toronto Lash Supplies <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/6780292366522</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://torontolashsupplies.ca/products/6780160180410</id>
+    <published>2021-08-04T11:18:34-04:00</published>
+    <updated>2021-08-04T11:18:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://torontolashsupplies.ca/products/120-wholesale-premade-fans"/>
+    <title>120 wholesale premade fans</title>
+    <s:type></s:type>
+    <s:vendor>Toronto Lash Supplies </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Toronto Lash Supplies <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            840.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/6780160180410</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">840.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://torontolashsupplies.ca/products/6769618419898</id>
+    <published>2021-07-28T22:30:12-04:00</published>
+    <updated>2021-07-28T22:30:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://torontolashsupplies.ca/products/lash-adhesive-wipes"/>
+    <title>Lash adhesive nozzle wipes</title>
+    <s:type></s:type>
+    <s:vendor>Toronto Lash Supplies </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2075/9831/products/image_488fd017-c727-4de9-8f72-2132a158e93d.jpg?v=1627525815"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Toronto Lash Supplies <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>New product alert: adhesive middle wipes!!! keep those adhesive bottles squeaky clean with our specially designed wipes - easy to grab wipes and  no more sticky caps that can cause your bottle completely glue shut! Simply grab a adhesive nozzle wipe after every use to avoid messy glue nozzles! </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/6769618419898</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://torontolashsupplies.ca/products/6717678911674</id>
+    <published>2021-06-25T13:47:02-04:00</published>
+    <updated>2021-06-25T13:47:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://torontolashsupplies.ca/products/glass-lash-dye-mixing-cup"/>
+    <title>Glass lash dye mixing cup</title>
+    <s:type></s:type>
+    <s:vendor>Toronto Lash Supplies </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2075/9831/products/image_38e3c127-7dec-42b1-9c03-f3628bbe0bbe.jpg?v=1624643227"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Toronto Lash Supplies <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/6717678911674</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://torontolashsupplies.ca/products/6717594140858</id>
+    <published>2021-06-25T11:44:51-04:00</published>
+    <updated>2021-06-25T11:44:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://torontolashsupplies.ca/products/disposable-glue-palette"/>
+    <title>Disposable glue palette</title>
+    <s:type></s:type>
+    <s:vendor>Toronto Lash Supplies </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2075/9831/products/image_0b9b705a-9911-468b-9a6c-377934676dd9.jpg?v=1624635876"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Toronto Lash Supplies <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This glue palette will last you for the entire day! It has 26 wells that allows for adhesive to be put in and used through out the day. <br>pack of 10</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/6717594140858</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://torontolashsupplies.ca/products/6717580116154</id>
+    <published>2021-06-25T11:27:21-04:00</published>
+    <updated>2021-06-25T11:27:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://torontolashsupplies.ca/products/ultra-thin-foam-gel-pads"/>
+    <title>Ultra thin Foam gel pads</title>
+    <s:type></s:type>
+    <s:vendor>Toronto Lash Supplies </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2075/9831/products/image_17188ee6-e229-40a2-9008-b715a331f65c.jpg?v=1624635666"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Toronto Lash Supplies <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A comfortable soft and foamy gel pad that feels great on clients eyes and is amazing to work with for lash artists! Pack of 20</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/6717580116154</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://torontolashsupplies.ca/products/6710356574394</id>
+    <published>2021-06-21T23:04:00-04:00</published>
+    <updated>2021-06-21T23:04:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://torontolashsupplies.ca/products/plastic-lash-lift-stick"/>
+    <title>Plastic Lash lift Stick</title>
+    <s:type></s:type>
+    <s:vendor>Toronto Lash Supplies </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2075/9831/products/image_061f5f3c-50b7-4867-a904-61ca72d88eb8.jpg?v=1624331043"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Toronto Lash Supplies <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Package of 10</p>
+<p>perfect for lash lifting and separating individual lashes onto rod</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/6710356574394</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://torontolashsupplies.ca/products/6676391493818</id>
+    <published>2021-05-28T10:34:21-04:00</published>
+    <updated>2021-05-28T10:34:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://torontolashsupplies.ca/products/gold-hydration-lip-mask"/>
+    <title>Gold hydration lip mask</title>
+    <s:type></s:type>
+    <s:vendor>Toronto Lash Supplies </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2075/9831/products/image_10245025-227f-4bed-a11a-20f0a78e9b15.jpg?v=1622212465"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Toronto Lash Supplies <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/6676391493818</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://torontolashsupplies.ca/products/6625227636922</id>
+    <published>2021-04-21T20:20:42-04:00</published>
+    <updated>2021-04-21T20:20:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://torontolashsupplies.ca/products/flower-adhesive-cups-for-volume-lashing"/>
+    <title>Flower Adhesive Cups for Volume Lashing</title>
+    <s:type></s:type>
+    <s:vendor>Toronto Lash Supplies </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2075/9831/products/image_c60b6e2f-1bae-488a-ae9a-a856eebf8eb8.jpg?v=1619050846"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Toronto Lash Supplies <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These flower glue cups are perfect for helping you create lash fans quickly ! </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/6625227636922</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://torontolashsupplies.ca/products/6617048613050</id>
+    <published>2021-04-14T09:58:19-04:00</published>
+    <updated>2021-04-14T09:58:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://torontolashsupplies.ca/products/training-eye-pads"/>
+    <title>Training eye pads</title>
+    <s:type></s:type>
+    <s:vendor>Toronto Lash Supplies </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2075/9831/products/image_c78878f7-587a-44b5-a383-f3abfb22b747.jpg?v=1618408706"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Toronto Lash Supplies <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Training eye pads that can be written on </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/6617048613050</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://torontolashsupplies.ca/products/6609191534778</id>
+    <published>2021-04-08T10:34:46-04:00</published>
+    <updated>2021-04-08T10:34:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://torontolashsupplies.ca/products/premade-loose-fans-8d"/>
+    <title>Premade Loose Fans 8D</title>
+    <s:type></s:type>
+    <s:vendor>Toronto Lash Supplies </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2075/9831/products/image_6ae12b4d-f171-4ce6-b57b-27eaa9488da8.jpg?v=1617892492"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Toronto Lash Supplies <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            23.99 - 28.99
+            <a href="https://torontolashsupplies.ca/products/premade-loose-fans-8d">(14 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1">Loose Premade fans , thin at base and heat bonded. Closely mimics hand made volume fans to create beautiful and voluminous sets for clients. </p>
+<p data-mce-fragment="1">Easy to apply and pick up at base , made from faux mink materials that are extremely soft and light weight.</p>
+<p data-mce-fragment="1">350 fans per box- enough for 3 volume sets</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/6609191534778</id>
+      <title>C-10mm</title>
+      <s:price currency="CAD">28.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/6609191534778</id>
+      <title>D-10mm</title>
+      <s:price currency="CAD">28.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/6609191534778</id>
+      <title>C -11mm</title>
+      <s:price currency="CAD">28.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/6609191534778</id>
+      <title>C-12mm</title>
+      <s:price currency="CAD">28.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/6609191534778</id>
+      <title>C-13mm</title>
+      <s:price currency="CAD">28.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/6609191534778</id>
+      <title>C-14mm</title>
+      <s:price currency="CAD">28.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/6609191534778</id>
+      <title>C-15mm</title>
+      <s:price currency="CAD">28.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/6609191534778</id>
+      <title>C-16mm</title>
+      <s:price currency="CAD">28.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/6609191534778</id>
+      <title>D-11mm</title>
+      <s:price currency="CAD">23.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/6609191534778</id>
+      <title>D-12mm</title>
+      <s:price currency="CAD">23.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/6609191534778</id>
+      <title>D-13mm</title>
+      <s:price currency="CAD">23.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/6609191534778</id>
+      <title>D-14mm</title>
+      <s:price currency="CAD">23.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/6609191534778</id>
+      <title>D-16mm</title>
+      <s:price currency="CAD">28.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/6609191534778</id>
+      <title>D-15mm</title>
+      <s:price currency="CAD">28.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://torontolashsupplies.ca/products/6583948017850</id>
+    <published>2021-03-26T16:44:39-04:00</published>
+    <updated>2021-03-26T16:44:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://torontolashsupplies.ca/products/tweezer-stand"/>
+    <title>Tweezer stand</title>
+    <s:type></s:type>
+    <s:vendor>Toronto Lash Supplies </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2075/9831/products/image_d43df01a-18f0-4fee-b002-3c68e6ecd989.jpg?v=1616791483"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Toronto Lash Supplies <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Keep organized with this amazing tweezer stand/ display that fits up to 8 tweezers! Made with high quality acrylic !</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/6583948017850</id>
+      <title>Black</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/6583948017850</id>
+      <title>White</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://torontolashsupplies.ca/products/6540508889274</id>
+    <published>2021-02-27T10:13:24-05:00</published>
+    <updated>2021-02-27T10:13:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://torontolashsupplies.ca/products/large-lash-palette-white"/>
+    <title>Large lash palette - white</title>
+    <s:type></s:type>
+    <s:vendor>Toronto Lash Supplies </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2075/9831/products/image_1ce0417f-e6b7-4500-aa5f-00f92cd1dac0.jpg?v=1614438797"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Toronto Lash Supplies <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>XL version lash palette to put lash strips on while lashing! </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/6540508889274</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://torontolashsupplies.ca/products/6536148910266</id>
+    <published>2021-02-24T11:58:47-05:00</published>
+    <updated>2021-02-24T11:58:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://torontolashsupplies.ca/products/sepia-microbladding-ink"/>
+    <title>sepia microbladding ink</title>
+    <s:type></s:type>
+    <s:vendor>Toronto Lash Supplies </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Toronto Lash Supplies <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            27.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/6536148910266</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">27.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://torontolashsupplies.ca/products/6536069251258</id>
+    <published>2021-02-24T11:04:24-05:00</published>
+    <updated>2021-02-24T11:04:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://torontolashsupplies.ca/products/microblading-starting-kit"/>
+    <title>Microblading starting kit</title>
+    <s:type></s:type>
+    <s:vendor>Toronto Lash Supplies </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Toronto Lash Supplies <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            258.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div data-mce-fragment="1">1)plastic wrap preservative film-</div>
+<div data-mce-fragment="1">2)3D silicon practicing skin- </div>
+<div data-mce-fragment="1">3)reusable microblading pen- </div>
+<div data-mce-fragment="1">4)eyebrow flexi  ruler- reusable </div>
+<div data-mce-fragment="1">5)pre numbing cream-</div>
+<div data-mce-fragment="1">6)surgical marker -</div>
+<div data-mce-fragment="1">7)cell repair cream ( for after )-</div>
+<div data-mce-fragment="1">8)pigment ring cups- </div>
+<div data-mce-fragment="1">9)100 micro brushes-</div>
+<div data-mce-fragment="1">10)3 Sepia Pigment ( soft brown, medium</div>
+<div data-mce-fragment="1">brown dark brown )</div>
+<div data-mce-fragment="1">11)purple carrying case </div>
+<span data-mce-fragment="1">12) blades ( 30 of different sizes ) </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/6536069251258</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">258.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://torontolashsupplies.ca/products/6224537387194</id>
+    <published>2021-02-19T10:24:57-05:00</published>
+    <updated>2021-02-19T10:24:57-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://torontolashsupplies.ca/products/xl-lash-book-premade-lash-fans-mix-trays"/>
+    <title>XL Lash Book- Premade Lash Fans Mix Trays</title>
+    <s:type></s:type>
+    <s:vendor>Toronto Lash Supplies </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2075/9831/products/image_6ca8d858-4360-4562-8abd-63ee9e610ebe.jpg?v=1616953733"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Toronto Lash Supplies <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            27.99 - 34.99
+            <a href="https://torontolashsupplies.ca/products/xl-lash-book-premade-lash-fans-mix-trays">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>16 lines of our best selling premade fans ! This XL tray will give be enough for more than 3 clients! <br><br></p>
+<p>fans are thin at base- fused by heat, soft to touch and extremely black! almost identical to hand made fans! </p>
+<p>8-15mm  </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/6224537387194</id>
+      <title>7D C Curl</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/6224537387194</id>
+      <title>5D - D curl</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/6224537387194</id>
+      <title>5D C Curl</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/6224537387194</id>
+      <title>7D - D Curl</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/6224537387194</id>
+      <title>3D c</title>
+      <s:price currency="CAD">27.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/6224537387194</id>
+      <title>3D D</title>
+      <s:price currency="CAD">27.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/6224537387194</id>
+      <title>8D C</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://torontolashsupplies.ca/products/6224508846266</id>
+    <published>2021-02-19T10:05:31-05:00</published>
+    <updated>2021-02-19T10:05:31-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://torontolashsupplies.ca/products/silicone-lash-pad-pink"/>
+    <title>Silicone Lash Pad Pink</title>
+    <s:type></s:type>
+    <s:vendor>Toronto Lash Supplies </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2075/9831/products/image_038cb190-d5ec-4469-8326-1d0aa1be2727.jpg?v=1613747127"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Toronto Lash Supplies <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/6224508846266</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://torontolashsupplies.ca/products/6173100966074</id>
+    <published>2021-01-14T13:59:40-05:00</published>
+    <updated>2021-01-14T13:59:40-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://torontolashsupplies.ca/products/tweezer-disinfect"/>
+    <title>Tweezer disinfect</title>
+    <s:type></s:type>
+    <s:vendor>Toronto Lash Supplies </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2075/9831/products/image_62f541b8-0337-4a74-93d7-f7dbd3d0af11.jpg?v=1610650776"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Toronto Lash Supplies <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Tweezer Disinfectant </p>
+<p>Purpose of the product: The tweezers can be disinfected so quick and comfortable.<br>How to Use: Dip the tweezer in a tweezer cleaner and rub it on a sponge to clean it. Take out the tweezer and wipe the remaining debris with a tissue.<br>Precautions: Use tweezer coated with paint carefully as the tweezer's paint may come off.<br>Please keep the lid closed after using it.<br>Use is prohibited outside of the intended use.<br>Please keep it out of the reach of children.<br>Capacity: 20ml</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/6173100966074</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://torontolashsupplies.ca/products/6128744300730</id>
+    <published>2020-12-28T14:59:04-05:00</published>
+    <updated>2020-12-28T14:59:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://torontolashsupplies.ca/products/mini-cool-air-conditioner-pink"/>
+    <title>Mini cool air conditioner ( pink)</title>
+    <s:type></s:type>
+    <s:vendor>Toronto Lash Supplies </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2075/9831/products/image_2e25b290-3113-4894-9339-45ae6778a3ce.jpg?v=1608065081"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Toronto Lash Supplies <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            23.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Mini air conditoner to help speed up process of drying adhesive </p>
+<p>provided relief to clients eyes right after lash application</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/6128744300730</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">23.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://torontolashsupplies.ca/products/6144610369722</id>
+    <published>2020-12-27T20:31:28-05:00</published>
+    <updated>2020-12-27T20:31:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://torontolashsupplies.ca/products/lash-pro-by-tls-self-fanning-lashes-0-07"/>
+    <title>Lash Pro by TLS Self Fanning Lashes 0.07</title>
+    <s:type></s:type>
+    <s:vendor>Toronto Lash Supplies </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2075/9831/products/selffan_dee239b0-c19a-48b9-8453-014ecd33a710.jpg?v=1609118946"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Toronto Lash Supplies <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            16.99 - 19.99
+            <a href="https://torontolashsupplies.ca/products/lash-pro-by-tls-self-fanning-lashes-0-07">(18 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Volume lashing has never been easier! These self fanning lashes are engineered so the lashes pretty much fan themselves! New volume lash technicians or lash technicians with little or no volume training will find these a dream to work with.</p>
+<p>These lashes are soft and silky, not to mention extremely black. They are true to curl and can cut your lashing time in half!</p>
+<p><span>12 rows per tray</span></p>
+<p><span>Mix Trays:</span><span> 8 and 9 mm;one row each, 10-14 mm;2 rows each</span></p>
+<p>P.S Check our Instagram for a video of how easy they fan! </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/6144610369722</id>
+      <title>mix tray 8-14mm c curl</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/6144610369722</id>
+      <title>mix tray 8-14mm d curl</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/6144610369722</id>
+      <title>9mm c curl</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/6144610369722</id>
+      <title>9mm d curl</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/6144610369722</id>
+      <title>10mm c curl</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/6144610369722</id>
+      <title>10mm d curl</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/6144610369722</id>
+      <title>11mm c curl</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/6144610369722</id>
+      <title>11mm d curl</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/6144610369722</id>
+      <title>12mm c curl</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/6144610369722</id>
+      <title>12mm d curl</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/6144610369722</id>
+      <title>13mm c curl</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/6144610369722</id>
+      <title>13mm d curl</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/6144610369722</id>
+      <title>14mm c curl</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/6144610369722</id>
+      <title>14mm d curl</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/6144610369722</id>
+      <title>15mm d curl</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/6144610369722</id>
+      <title>15mm c curl</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/6144610369722</id>
+      <title>16mm c curl</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/6144610369722</id>
+      <title>16mm d curl</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://torontolashsupplies.ca/products/6144599064762</id>
+    <published>2020-12-27T20:30:51-05:00</published>
+    <updated>2020-12-27T20:30:51-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://torontolashsupplies.ca/products/lash-pro-by-tls-self-fanning-lashes-0-03"/>
+    <title>Lash Pro by TLS Self Fanning Lashes 0.03</title>
+    <s:type></s:type>
+    <s:vendor>Toronto Lash Supplies </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2075/9831/products/selffan.jpg?v=1609118883"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Toronto Lash Supplies <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            16.99 - 19.99
+            <a href="https://torontolashsupplies.ca/products/lash-pro-by-tls-self-fanning-lashes-0-03">(16 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Volume lashing has never been easier! These self fanning lashes are engineered so the lashes pretty much fan themselves! New volume lash technicians or lash technicians with little or no volume training will find these a dream to work with.</p>
+<p>These lashes are soft and silky, not to mention extremely black. They are true to curl and can cut your lashing time in half!</p>
+<p><span>12 rows per tray</span></p>
+<p><span>Mix Trays:</span><span> 8 and 9 mm;one row each, 10-14 mm;2 rows each</span></p>
+<p>P.S Check our Instagram for a video of how easy they fan! </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/6144599064762</id>
+      <title>mix tray 8-14 mm c curl</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/6144599064762</id>
+      <title>mix tray 8-14 mm d curl</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/6144599064762</id>
+      <title>9mm c curl</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/6144599064762</id>
+      <title>9mm d curl</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/6144599064762</id>
+      <title>10mm c curl</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/6144599064762</id>
+      <title>10 mm d curl</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/6144599064762</id>
+      <title>11mm c curl</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/6144599064762</id>
+      <title>11mm d curl</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/6144599064762</id>
+      <title>12 mm c curl</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/6144599064762</id>
+      <title>12mm d curl</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/6144599064762</id>
+      <title>13mm c curl</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/6144599064762</id>
+      <title>13mm d curl</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/6144599064762</id>
+      <title>14mm c curl</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/6144599064762</id>
+      <title>15mm d curl</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/6144599064762</id>
+      <title>16mm d curl</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/6144599064762</id>
+      <title>16mm c curl</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://torontolashsupplies.ca/products/6144603291834</id>
+    <published>2020-12-27T20:29:50-05:00</published>
+    <updated>2020-12-27T20:29:50-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://torontolashsupplies.ca/products/lash-pro-by-tls-0-05"/>
+    <title>Lash Pro by TLS Self fanning lashes  0.05</title>
+    <s:type></s:type>
+    <s:vendor>Toronto Lash Supplies </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2075/9831/products/selffan_9e628586-3ada-4b79-a1dd-e238c9c54e0a.jpg?v=1609118980"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Toronto Lash Supplies <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            16.99 - 19.99
+            <a href="https://torontolashsupplies.ca/products/lash-pro-by-tls-0-05">(18 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Volume lashing has never been easier! These self fanning lashes are engineered so the lashes pretty much fan themselves! New volume lash technicians or lash technicians with little or no volume training will find these a dream to work with.</p>
+<p>These lashes are soft and silky, not to mention extremely black. They are true to curl and can cut your lashing time in half!</p>
+<p><span>12 rows per tray</span></p>
+<p><span>Mix Trays:</span><span> 8 and 9 mm;one row each, 10-14 mm;2 rows each</span></p>
+<p>P.S Check our Instagram for a video of how easy they fan! </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/6144603291834</id>
+      <title>mix tray 8-14mm c curl</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/6144603291834</id>
+      <title>mix tray 8-14mm d curl</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/6144603291834</id>
+      <title>9mm c curl</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/6144603291834</id>
+      <title>9mm d curl</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/6144603291834</id>
+      <title>10mm c curl</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/6144603291834</id>
+      <title>10mm d curl</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/6144603291834</id>
+      <title>11mm c curl</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/6144603291834</id>
+      <title>11mm d curl</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/6144603291834</id>
+      <title>12mm c curl</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/6144603291834</id>
+      <title>12mm d curl</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/6144603291834</id>
+      <title>13mm c curl</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/6144603291834</id>
+      <title>13mm d curl</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/6144603291834</id>
+      <title>14mm c curl</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/6144603291834</id>
+      <title>14mm d curl</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/6144603291834</id>
+      <title>15mm c curl</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/6144603291834</id>
+      <title>15mm d curl</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/6144603291834</id>
+      <title>16mm d curl</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/6144603291834</id>
+      <title>16mm c curl</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://torontolashsupplies.ca/products/6144593100986</id>
+    <published>2020-12-27T20:11:54-05:00</published>
+    <updated>2020-12-27T20:11:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://torontolashsupplies.ca/products/gold-tipped-matt-black-diamond-grip-volume-tweezer"/>
+    <title>Gold Tipped Matt Black Diamond Grip Tweezer Collection</title>
+    <s:type></s:type>
+    <s:vendor>Toronto Lash Supplies </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2075/9831/products/image_c36e2eb4-8bc9-4dbd-80fc-99a46caed5dd.jpg?v=1616954597"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Toronto Lash Supplies <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.99 - 149.99
+            <a href="https://torontolashsupplies.ca/products/gold-tipped-matt-black-diamond-grip-volume-tweezer">(10 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span data-mce-fragment="1">The tweezers in this collection are specially made- the  tips are plated with anti rust gold and the body comes in an extra grip matte black finish. These tweezers are interchangeable between classic and volume lashing which is why they have quickly become a lash artist favourite and best seller! Each pair is hand tested before sold to ensure they close precisely.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/6144593100986</id>
+      <title>Straight</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/6144593100986</id>
+      <title>Curved</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/6144593100986</id>
+      <title>Fat Boot</title>
+      <s:price currency="CAD">22.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/6144593100986</id>
+      <title>Skinny Boot</title>
+      <s:price currency="CAD">22.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/6144593100986</id>
+      <title>Long J</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/6144593100986</id>
+      <title>Volume</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/6144593100986</id>
+      <title>90 Degree</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/6144593100986</id>
+      <title>Curved isolation</title>
+      <s:price currency="CAD">22.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/6144593100986</id>
+      <title>Angled volume</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/6144593100986</id>
+      <title>Entire set ( 9 tweezers)</title>
+      <s:price currency="CAD">149.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://torontolashsupplies.ca/products/6129981849786</id>
+    <published>2020-12-16T19:50:58-05:00</published>
+    <updated>2020-12-16T19:50:58-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://torontolashsupplies.ca/products/10d-loose-premade-fans"/>
+    <title>10D - 0.07 Loose Premade/Promade Fans</title>
+    <s:type></s:type>
+    <s:vendor>Toronto Lash Supplies </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2075/9831/products/image_88d4e78c-a992-4bb0-bfd9-da720b39dbd0.jpg?v=1617804684"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Toronto Lash Supplies <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            31.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1">Loose premade fans , thin at base and heat bonded. Closely mimics hand made volume fans to create beautiful and voluminous sets for clients. </p>
+<p data-mce-fragment="1">Easy to apply and pick up at base , made from high quality faux mink materials that are extremely soft and light weight.</p>
+<p data-mce-fragment="1">400 fans per box- enough for 5 volume sets.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/6129981849786</id>
+      <title>10mm c</title>
+      <s:price currency="CAD">31.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/6129981849786</id>
+      <title>11mm c</title>
+      <s:price currency="CAD">31.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/6129981849786</id>
+      <title>12mm c</title>
+      <s:price currency="CAD">31.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/6129981849786</id>
+      <title>13mm c</title>
+      <s:price currency="CAD">31.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/6129981849786</id>
+      <title>14mm c</title>
+      <s:price currency="CAD">31.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/6129981849786</id>
+      <title>15mmc</title>
+      <s:price currency="CAD">31.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/6129981849786</id>
+      <title>10mm d</title>
+      <s:price currency="CAD">31.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/6129981849786</id>
+      <title>11mm d</title>
+      <s:price currency="CAD">31.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/6129981849786</id>
+      <title>12mm d</title>
+      <s:price currency="CAD">31.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/6129981849786</id>
+      <title>13mm d</title>
+      <s:price currency="CAD">31.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/6129981849786</id>
+      <title>14mm d</title>
+      <s:price currency="CAD">31.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/6129981849786</id>
+      <title>15mm d</title>
+      <s:price currency="CAD">31.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+</feed>

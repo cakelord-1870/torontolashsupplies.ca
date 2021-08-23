@@ -1,0 +1,559 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://torontolashsupplies.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://torontolashsupplies.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://torontolashsupplies.ca/collections/eyelash-adhesive.atom"/>
+  <title>Toronto Lash Supplies </title>
+  <updated>2020-11-04T20:49:41-05:00</updated>
+  <author>
+    <name>Toronto Lash Supplies </name>
+  </author>
+  <entry>
+    <id>https://torontolashsupplies.ca/products/5883084570774</id>
+    <published>2020-11-04T20:49:41-05:00</published>
+    <updated>2020-11-04T20:49:41-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://torontolashsupplies.ca/products/pure-booster-adhesive-strengenther"/>
+    <title>Pure Booster Adhesive Strengthener</title>
+    <s:type></s:type>
+    <s:vendor>Toronto Lash Supplies </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2075/9831/products/image_619c184a-926b-42a3-ac01-3986aa187610.jpg?v=1604540987"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Toronto Lash Supplies <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This pure booster is great for boosting adhesive abilities. It’s an all in one primer and booster for natural lashes that allow adhesive to bond fake lashes faster and stronger to real lashes. Use microswabs to apply pure booster to real lashes before applying fakes lashes</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/5883084570774</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://torontolashsupplies.ca/products/4450655109213</id>
+    <published>2019-12-11T05:55:05-05:00</published>
+    <updated>2019-12-11T05:55:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://torontolashsupplies.ca/products/pre-treatment"/>
+    <title>Pre- Treatment Primer</title>
+    <s:type>Tools &amp; Supplies</s:type>
+    <s:vendor>TLS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2075/9831/products/image_d723d0eb-5a88-4461-8e57-321d8f02793d.jpg?v=1576081390"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>TLS<br>
+        <strong>Type: </strong>Tools &amp; Supplies<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This pretreatment is a great alternative to cleanser, it helps to cleanse oil, dirt and other residues off the natural lashes. It has an added peptide-1 ingredient to it which nourishes client's natural lashes and strengthens the roots of the eyelashes.</p>
+<p><strong>﻿Ingredients: </strong>Water, PVP, Poly (Acrylate), Ethanol</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/4450655109213</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://torontolashsupplies.ca/products/4450654912605</id>
+    <published>2019-12-11T05:54:42-05:00</published>
+    <updated>2019-12-11T05:54:42-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://torontolashsupplies.ca/products/tls-exclusive-lash-booster"/>
+    <title>Toronto Lash Supplies Exclusive Lash Booster</title>
+    <s:type></s:type>
+    <s:vendor>TLS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2075/9831/products/image_e18d1d74-5033-463a-8cbb-ba7137bced64.jpg?v=1576081404"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>TLS<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            22.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Struggling with retention? The amazing lash booster will save the day! This bonder boosts lash retention by dehydrating the lash extensions and priming it so it can be ready the adhesive and real lash. It will speed up the adhering rate, volume fans will stay open and lastly curing process time will be cut in half! </p>
+<p>How to Use:</p>
+<p>Gently brush the booster onto the base of  the fake lashes ( strip) 5-10 mins before adhering to clients lashes , this will work for both classic and volume lashes. </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/4450654912605</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">22.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://torontolashsupplies.ca/products/4301174440029</id>
+    <published>2019-10-22T21:53:14-04:00</published>
+    <updated>2019-10-22T21:53:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://torontolashsupplies.ca/products/volume-plus-lash-adhesive"/>
+    <title>Volume Plus Lash Adhesive</title>
+    <s:type>Adhesive</s:type>
+    <s:vendor>TLS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2075/9831/products/image_5faf5f53-f3a8-45ce-9ed1-7be5989497dd.jpg?v=1572997027"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>TLS<br>
+        <strong>Type: </strong>Adhesive<br>
+        <strong>Price: </strong>
+            22.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>This glue is amazing for all types of lashing especially for volume and classic! Works great under high humidity settings and dries extremely quick ( 1-2 seconds)</p>
+<p>Size: 5ml</p>
+<p>Glue Color: Black</p>
+<p>Drying Time: 1-2 seconds</p>
+<p>Retention time: 6-7 weeks</p>
+<p>Recommended temperature: <span>74-82</span><span>°F (</span><span>23-28°C)</span></p>
+<div class="weather-icon">
+<p>Recommended humidity: RH 50-70%</p>
+<p>Latex Free &amp; Formaldehyde Free</p>
+<p><strong>﻿Ingredient List: </strong>﻿ethyl cyanoacrylate, PMMA, carbon black, hydroquinone </p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/4301174440029</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">22.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://torontolashsupplies.ca/products/4301165101149</id>
+    <published>2019-10-22T21:53:14-04:00</published>
+    <updated>2019-10-22T21:53:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://torontolashsupplies.ca/products/crystal-clear-lash-adhesive-5ml"/>
+    <title>Crystal Clear Lash Adhesive 5ml</title>
+    <s:type>Adhesive</s:type>
+    <s:vendor>TLS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2075/9831/products/image_64a16723-0588-4962-84bf-4d6c5abca94b.jpg?v=1572997040"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>TLS<br>
+        <strong>Type: </strong>Adhesive<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our very own line of clear adhesive, perfect for both volume and classic lashing</p>
+<p>dry time: 1-2 seconds</p>
+<p>retention:6-7 weeks</p>
+<p>Designed for fast and experienced technicians </p>
+<meta charset="utf-8">
+<p>Recommended temperature: <span>74-82</span><span>°F (</span><span>23-28°C)</span></p>
+<div class="weather-icon">Recommended humidity: RH 50-70%</div>
+<div class="weather-icon"></div>
+<div class="weather-icon"><span>Latex Free &amp; Formaldehyde Free</span></div>
+<p> </p>
+<p><strong>﻿Ingredients: </strong>﻿ ethyl caynoacrylate, PMMA, hydroquinone </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/4301165101149</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://torontolashsupplies.ca/products/772088922205</id>
+    <published>2018-05-03T11:30:38-04:00</published>
+    <updated>2018-05-03T11:30:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://torontolashsupplies.ca/products/sky-glue-s-5ml-and-black-lady-5ml"/>
+    <title>5mL Sky Glue + &amp; Lady Black Adhesive Bundle</title>
+    <s:type>Adhesive</s:type>
+    <s:vendor>TLS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2075/9831/products/Jenn_TBLS-8.jpg?v=1571712751"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>TLS<br>
+        <strong>Type: </strong>Adhesive<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This eyelash adhesive bundle is our top selling bundle! It features our best sellers sky glue s+ and lady black adhesive at a discounted price!</p>
+<ul>
+<li>5mL Sky Glue </li>
+<li>5mL Lady Black adhesive for sensitive eyes</li>
+<li>*save 5$ when purchasing this bundle of our 2 best selling adhesives!</li>
+</ul>
+<meta charset="utf-8">
+<p><span><strong>Type S+</strong></span></p>
+<ul>
+<li>Best selling formula for classic and volume eyelash extensions</li>
+<li>
+<strong>Glue color:</strong><span> </span>Black</li>
+<li>
+<strong>Dry time:</strong><span> </span>1-2 seconds</li>
+<li>
+<strong>Retention time:</strong><span> </span>6-7 weeks</li>
+<li>
+<strong>Recommended storage temperature:</strong><span> </span>23-28 degrees Celsius</li>
+<li>
+<strong>Recommended storage humidity:</strong><span> </span>50-70%</li>
+<li><em><b>Lated &amp; Formaldehyde Free!</b></em></li>
+<li><em><b>Ingredients: </b>ethyl caynoacrylate, PMMA, carbon black, hydroquinone </em></li>
+</ul>
+<p><em><strong>Lady Black Glue</strong><br></em></p>
+<meta charset="utf-8">
+<ul>
+<li>Temperature: 22-25 Celsius</li>
+<li>Humidity: 20-45%</li>
+<li>Bond time 1-3 seconds</li>
+<li>Shelf Life- 12 months unopened in fridge and 4 weeks opened at room temperature</li>
+<li>made in Korea</li>
+<li>
+<strong>ingredients: </strong>﻿ethyl cyanoacrylate, methyl 2-cyanoacrylate, PMMA, Hydroquinone, Carbon </li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Eyelash Adhesive</s:tag>
+    <s:tag>Eyelash Kit</s:tag>
+    <s:tag>Eyelash Supplies</s:tag>
+    <s:tag>Eyelashes</s:tag>
+    <s:tag>Lash Adhesive</s:tag>
+    <s:tag>Lash Extension Supplies</s:tag>
+    <s:tag>Lash Extensions</s:tag>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/772088922205</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://torontolashsupplies.ca/products/753777541213</id>
+    <published>2018-04-28T20:51:01-04:00</published>
+    <updated>2018-04-28T20:51:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://torontolashsupplies.ca/products/whole-sale-sky-glue-s"/>
+    <title>Wholesale - Sky Glue Adhesives</title>
+    <s:type>Adhesive</s:type>
+    <s:vendor>TLS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2075/9831/products/Jenn_TBLS-5_1a7ed757-246b-46a1-bd50-e0c611d5632e.jpg?v=1571712751"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>TLS<br>
+        <strong>Type: </strong>Adhesive<br>
+        <strong>Price: </strong>
+            85.00 - 145.00
+            <a href="https://torontolashsupplies.ca/products/whole-sale-sky-glue-s">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Select a 5-pack bundle of your favourite Sky Glue lash extension adhesives and save!</p>
+<p><span style="text-decoration: underline;"><strong>Available types:</strong></span></p>
+<ul>
+<li>
+<strong>5mL Sky Glue S:</strong> 5-pack for $80 (<strong>SAVE $20)</strong> <em><strong>or</strong></em> 10-pack for $145 <strong>(SAVE $55)</strong>
+</li>
+<li>
+<strong>5mL Sky Glue S+:</strong> 5-pack for $80 <strong>(SAVE $20)</strong> <em><strong>or</strong></em> 10-pack for $145 <strong>(SAVE $55)</strong>
+</li>
+</ul>
+<p> <strong>﻿Ingredients:</strong>﻿</p>
+<meta charset="utf-8">
+<ul>
+<li><em><b> </b>ethyl caynoacrylate, PMMA, carbon black, hydroquinone </em></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Eyelash Adhesive</s:tag>
+    <s:tag>Eyelash Supplies</s:tag>
+    <s:tag>Lash Adhesive</s:tag>
+    <s:tag>Lash Bundle</s:tag>
+    <s:tag>Lash Extension Supplies</s:tag>
+    <s:tag>Lash Kit</s:tag>
+    <s:tag>Wholesale</s:tag>
+    <s:tag>Wholesale Lash Supplies</s:tag>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/753777541213</id>
+      <title>S / 5-Pack</title>
+      <s:price currency="CAD">85.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/753777541213</id>
+      <title>S / 10-Pack</title>
+      <s:price currency="CAD">145.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/753777541213</id>
+      <title>S+ / 5-Pack</title>
+      <s:price currency="CAD">85.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/753777541213</id>
+      <title>S+ / 10-Pack</title>
+      <s:price currency="CAD">145.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://torontolashsupplies.ca/products/9836902344</id>
+    <published>2017-06-07T17:30:35-04:00</published>
+    <updated>2017-06-07T17:30:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://torontolashsupplies.ca/products/eyelash-primer"/>
+    <title>Eyelash Primer 10ml</title>
+    <s:type>Lash Extension Product</s:type>
+    <s:vendor>TLS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2075/9831/products/Snapseed_108.jpg?v=1577671226"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>TLS<br>
+        <strong>Type: </strong>Lash Extension Product<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Eyelash primer is essential  to remove proteins and oil from your clients natural lashes before beginning a new set of extensions! Priming the natural lashes will also result in proper bondage of the adhesive onto the real lash allowing for maximized retention! </p>
+<p><strong>Ingredients: </strong>water, ethyl alcohol, AA, Saline<br></p>
+<p><strong>How to use:</strong> use two q tips or micro swabs to careful wash natural eyelashes by swiping the 1-2 drops of primer per eye. </p>
+<p><strong>﻿How to store: </strong>﻿store in room with no sun exposure under 25 degrees </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Eyelash Primer</s:tag>
+    <s:tag>Eyelash Supplies</s:tag>
+    <s:tag>Lash Extension Supplies</s:tag>
+    <s:tag>Lash Extensions</s:tag>
+    <s:tag>Lash Primer</s:tag>
+    <s:tag>Lash Products</s:tag>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/9836902344</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://torontolashsupplies.ca/products/9823321288</id>
+    <published>2017-06-06T18:57:56-04:00</published>
+    <updated>2017-06-06T18:57:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://torontolashsupplies.ca/products/lady-black-sensitive-lash-adhesive-10ml"/>
+    <title>5mL Lady Black Eyelash Adhesive - Sensitive Eyes</title>
+    <s:type>Adhesive</s:type>
+    <s:vendor>TLS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2075/9831/products/Jenn_TBLS-9.jpg?v=1571712750"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>TLS<br>
+        <strong>Type: </strong>Adhesive<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This eyelash adhesive is the perfect product for clients with sensitive eyes! It features a lower fume ratio, which allows clients with sensitive eyes to enjoy lash extensions without the irritation. Lady black glue boasts a 4-5 week retention, and works  best in medium to low humidity; are no downsides to this product!</p>
+<p><strong>*Latex and formaldehyde-free!*</strong></p>
+<p><em><strong>Recommended storage instructions:</strong></em></p>
+<ul>
+<li>Temperature: 22-25 Celsius</li>
+<li>Humidity: 20-45%</li>
+<li>Bond time 1-3 seconds</li>
+<li>Shelf Life- 12 months unopened in fridge and 4 weeks opened at room temperature</li>
+<li>made in Korea</li>
+</ul>
+<p><strong>Ingredients: </strong>﻿ethyl cyanoacrylate, methyl 2-cyanoacrylate, PMMA, Hydroquinone, Carbon </p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Eyelash Adhesive</s:tag>
+    <s:tag>Eyelash Supplies</s:tag>
+    <s:tag>Eyelashes</s:tag>
+    <s:tag>Lash Adhesive</s:tag>
+    <s:tag>Lash Extension Supplies</s:tag>
+    <s:tag>Lash Products</s:tag>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/9823321288</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://torontolashsupplies.ca/products/9823269640</id>
+    <published>2017-06-06T18:49:18-04:00</published>
+    <updated>2017-06-06T18:49:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://torontolashsupplies.ca/products/sky-glue-s-5ml"/>
+    <title>Sky Glue Eyelash Adhesive&apos;s</title>
+    <s:type>Adhesive</s:type>
+    <s:vendor>TLS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2075/9831/products/Jenn_TBLS-5.jpg?v=1571712750"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>TLS<br>
+        <strong>Type: </strong>Adhesive<br>
+        <strong>Price: </strong>
+            21.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>One of the top selling adhesive brand products in the industry!</p>
+<p><span style="text-decoration: underline;"><strong>Type S</strong></span></p>
+<ul>
+<li>Rapid dry formula is perfect for classic and volume eyelash extensions</li>
+<li>
+<strong>Glue color:</strong> Black</li>
+<li>
+<strong>Dry time:</strong> 1-2 seconds</li>
+<li>
+<strong>Retention time:</strong> 5-6 weeks</li>
+<li>
+<strong>Recommended storage temperature:</strong> 23-28 degrees Celsius</li>
+<li>
+<strong>Recommended storage humidity:</strong> 50-70%</li>
+<li><em><strong>Latex &amp; Formaldehyde-Free!</strong></em></li>
+</ul>
+<p><span style="text-decoration: underline;"><strong>Type S+</strong></span></p>
+<ul>
+<li>Best selling formula for classic and volume eyelash extensions</li>
+<li>
+<strong>Glue color:</strong> Black</li>
+<li>
+<strong>Dry time:</strong> 1-2 seconds</li>
+<li>
+<strong>Retention time:</strong> 6-7 weeks</li>
+<li>
+<strong>Recommended storage temperature:</strong> 23-28 degrees Celsius</li>
+<li>
+<strong>Recommended storage humidity:</strong> 50-70%</li>
+<li><em><strong>Lated &amp; Formaldehyde Free!</strong></em></li>
+</ul>
+<p><strong><em>﻿Ingredients:</em></strong></p>
+<meta charset="utf-8">
+<ul>
+<li><em><b> </b>ethyl caynoacrylate, PMMA, carbon black, hydroquinone </em></li>
+</ul>
+<p> </p>
+<p><em><strong>*PLEASE NOTE that Sky Glue is meant for professional use only. DO NOT use to strip lash application!*</strong></em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Eyelash Adhesive</s:tag>
+    <s:tag>Eyelash Supplies</s:tag>
+    <s:tag>Lash Adhesive</s:tag>
+    <s:tag>Lash Extension Supplies</s:tag>
+    <s:tag>Lash Extensions</s:tag>
+    <s:tag>Lash Products</s:tag>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/9823269640</id>
+      <title>S / 5mL</title>
+      <s:price currency="CAD">21.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://torontolashsupplies.ca/products/9823269640</id>
+      <title>S+ / 5mL</title>
+      <s:price currency="CAD">21.99</s:price>
+      <s:sku>50</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+  </entry>
+</feed>
